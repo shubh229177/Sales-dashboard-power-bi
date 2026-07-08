@@ -1,0 +1,2001 @@
+Order_ID,Order_Date,Region,Category,Product,Sales,Profit,Quantity,Ship_Days
+1001,2024-01-01,East,Office Supplies,Mobile,43923,9405,7,7
+1002,2024-01-02,West,Furniture,Mobile,42192,4875,4,4
+1003,2024-01-03,North,Office Supplies,Chair,10440,8797,9,8
+1004,2024-01-04,East,Office Supplies,Chair,4424,6098,9,9
+1005,2024-01-05,East,Electronics,Pen,28554,3711,2,3
+1006,2024-01-06,West,Electronics,Mobile,10283,9993,6,5
+1007,2024-01-07,North,Office Supplies,Notebook,37753,2991,4,4
+1008,2024-01-08,North,Electronics,Mobile,45897,7117,8,6
+1009,2024-01-09,East,Furniture,Chair,13733,5141,7,4
+1010,2024-01-10,South,Furniture,Notebook,46169,1651,7,8
+1011,2024-01-11,East,Electronics,Laptop,24984,1530,9,3
+1012,2024-01-12,East,Furniture,Laptop,25568,6280,5,5
+1013,2024-01-13,East,Electronics,Table,691,9344,6,1
+1014,2024-01-14,East,Office Supplies,Chair,25574,3326,1,6
+1015,2024-01-15,West,Office Supplies,Table,5417,6497,6,5
+1016,2024-01-16,North,Furniture,Notebook,39099,5549,2,8
+1017,2024-01-17,West,Electronics,Chair,26332,6323,6,9
+1018,2024-01-18,West,Electronics,Pen,43428,1349,9,8
+1019,2024-01-19,West,Furniture,Mobile,21206,5868,8,8
+1020,2024-01-20,East,Office Supplies,Pen,14182,6751,9,3
+1021,2024-01-21,South,Furniture,Notebook,27262,5044,8,4
+1022,2024-01-22,North,Office Supplies,Chair,23883,7539,3,4
+1023,2024-01-23,South,Electronics,Notebook,28296,9777,8,5
+1024,2024-01-24,West,Office Supplies,Mobile,24166,8319,6,9
+1025,2024-01-25,West,Furniture,Laptop,26162,2881,6,9
+1026,2024-01-26,South,Electronics,Laptop,45659,2771,6,1
+1027,2024-01-27,South,Furniture,Notebook,35142,1582,3,8
+1028,2024-01-28,South,Furniture,Table,42330,8479,1,1
+1029,2024-01-29,West,Office Supplies,Chair,38031,5303,4,2
+1030,2024-01-30,West,Furniture,Chair,10734,2046,6,7
+1031,2024-01-31,North,Office Supplies,Laptop,9721,5361,2,8
+1032,2024-02-01,North,Electronics,Pen,11910,327,7,1
+1033,2024-02-02,West,Office Supplies,Mobile,15019,3139,7,3
+1034,2024-02-03,South,Electronics,Pen,1551,573,4,7
+1035,2024-02-04,South,Office Supplies,Pen,45493,4325,4,9
+1036,2024-02-05,North,Furniture,Notebook,10265,5415,1,8
+1037,2024-02-06,West,Office Supplies,Laptop,11882,3172,2,8
+1038,2024-02-07,North,Office Supplies,Laptop,13080,8217,9,9
+1039,2024-02-08,North,Electronics,Laptop,32823,5240,8,3
+1040,2024-02-09,East,Furniture,Notebook,45257,4625,8,8
+1041,2024-02-10,East,Office Supplies,Table,12439,7777,9,1
+1042,2024-02-11,East,Furniture,Pen,30464,1847,7,8
+1043,2024-02-12,South,Office Supplies,Notebook,807,2181,9,7
+1044,2024-02-13,West,Office Supplies,Chair,3859,7372,2,8
+1045,2024-02-14,West,Furniture,Mobile,30148,6550,6,1
+1046,2024-02-15,West,Office Supplies,Table,36444,865,3,6
+1047,2024-02-16,West,Furniture,Chair,34519,8684,6,7
+1048,2024-02-17,East,Office Supplies,Pen,38634,6716,3,5
+1049,2024-02-18,South,Electronics,Laptop,27823,192,8,5
+1050,2024-02-19,South,Furniture,Pen,6726,1460,4,7
+1051,2024-02-20,East,Office Supplies,Notebook,22189,584,6,3
+1052,2024-02-21,South,Office Supplies,Mobile,31471,9958,9,6
+1053,2024-02-22,East,Electronics,Notebook,26454,3414,2,7
+1054,2024-02-23,West,Furniture,Table,24923,1082,2,1
+1055,2024-02-24,East,Office Supplies,Table,30891,3392,7,2
+1056,2024-02-25,West,Electronics,Mobile,14830,9652,2,4
+1057,2024-02-26,West,Office Supplies,Chair,5391,6135,2,8
+1058,2024-02-27,North,Furniture,Chair,5492,4550,4,6
+1059,2024-02-28,East,Office Supplies,Table,2461,1222,9,1
+1060,2024-02-29,North,Office Supplies,Table,12997,9130,8,5
+1061,2024-03-01,East,Office Supplies,Laptop,33051,4567,2,7
+1062,2024-03-02,East,Office Supplies,Chair,11348,8057,8,6
+1063,2024-03-03,North,Electronics,Mobile,13755,1691,4,9
+1064,2024-03-04,North,Electronics,Chair,5067,521,2,8
+1065,2024-03-05,East,Furniture,Laptop,49347,2990,7,4
+1066,2024-03-06,South,Electronics,Notebook,39781,8788,6,5
+1067,2024-03-07,West,Electronics,Table,48503,4776,5,7
+1068,2024-03-08,North,Furniture,Table,20889,7720,1,8
+1069,2024-03-09,West,Electronics,Laptop,45023,3773,2,5
+1070,2024-03-10,South,Electronics,Mobile,44419,413,8,9
+1071,2024-03-11,South,Furniture,Table,17067,3359,1,4
+1072,2024-03-12,South,Furniture,Pen,3858,595,3,4
+1073,2024-03-13,North,Furniture,Table,23499,3290,2,8
+1074,2024-03-14,South,Office Supplies,Pen,42858,6715,5,1
+1075,2024-03-15,North,Office Supplies,Laptop,11488,1986,4,8
+1076,2024-03-16,South,Furniture,Laptop,40946,9204,7,5
+1077,2024-03-17,West,Furniture,Table,32021,932,5,1
+1078,2024-03-18,West,Furniture,Chair,6198,3890,8,4
+1079,2024-03-19,East,Office Supplies,Pen,1773,6973,4,2
+1080,2024-03-20,West,Office Supplies,Mobile,28043,9112,6,4
+1081,2024-03-21,East,Electronics,Table,31849,4661,4,8
+1082,2024-03-22,West,Electronics,Mobile,11741,9107,2,5
+1083,2024-03-23,North,Furniture,Table,9997,5254,1,1
+1084,2024-03-24,West,Office Supplies,Chair,42375,7338,1,7
+1085,2024-03-25,East,Office Supplies,Chair,33203,3253,8,1
+1086,2024-03-26,East,Office Supplies,Chair,44541,2294,4,9
+1087,2024-03-27,South,Furniture,Notebook,32454,68,5,3
+1088,2024-03-28,North,Electronics,Chair,8502,691,8,3
+1089,2024-03-29,West,Furniture,Laptop,4747,3133,7,6
+1090,2024-03-30,South,Electronics,Laptop,42488,5250,8,6
+1091,2024-03-31,West,Electronics,Notebook,22198,8571,8,6
+1092,2024-04-01,West,Furniture,Pen,20238,915,6,1
+1093,2024-04-02,South,Electronics,Mobile,11203,823,2,5
+1094,2024-04-03,South,Electronics,Table,48740,4782,6,6
+1095,2024-04-04,South,Office Supplies,Table,49922,3568,1,8
+1096,2024-04-05,South,Electronics,Notebook,18070,6845,1,1
+1097,2024-04-06,South,Furniture,Laptop,12892,7034,3,5
+1098,2024-04-07,West,Furniture,Table,45224,2617,3,3
+1099,2024-04-08,South,Electronics,Laptop,32799,1724,5,2
+1100,2024-04-09,North,Office Supplies,Pen,16141,789,1,8
+1101,2024-04-10,East,Office Supplies,Mobile,14498,1595,6,7
+1102,2024-04-11,South,Electronics,Pen,6805,9377,7,7
+1103,2024-04-12,South,Electronics,Notebook,33226,5177,3,5
+1104,2024-04-13,West,Furniture,Chair,19282,6997,4,9
+1105,2024-04-14,South,Electronics,Chair,13221,6670,3,5
+1106,2024-04-15,South,Office Supplies,Chair,40263,9115,1,2
+1107,2024-04-16,South,Electronics,Pen,12927,4605,8,3
+1108,2024-04-17,West,Furniture,Table,47050,5695,2,4
+1109,2024-04-18,South,Furniture,Mobile,21066,8993,1,5
+1110,2024-04-19,East,Furniture,Chair,2730,7174,8,3
+1111,2024-04-20,West,Furniture,Notebook,7011,9095,7,7
+1112,2024-04-21,East,Furniture,Notebook,49780,3782,7,5
+1113,2024-04-22,West,Electronics,Chair,42729,2333,4,5
+1114,2024-04-23,South,Electronics,Chair,26677,9571,9,6
+1115,2024-04-24,East,Electronics,Mobile,5265,8719,6,7
+1116,2024-04-25,West,Electronics,Chair,20854,7048,2,8
+1117,2024-04-26,North,Furniture,Mobile,24429,5463,1,9
+1118,2024-04-27,South,Office Supplies,Notebook,29320,1319,1,4
+1119,2024-04-28,West,Electronics,Chair,46540,7918,9,5
+1120,2024-04-29,North,Office Supplies,Pen,30023,2653,4,5
+1121,2024-04-30,West,Electronics,Pen,6052,6011,5,8
+1122,2024-05-01,North,Electronics,Notebook,1127,9711,3,9
+1123,2024-05-02,South,Office Supplies,Mobile,12489,8619,4,7
+1124,2024-05-03,East,Furniture,Pen,14280,7607,8,5
+1125,2024-05-04,North,Electronics,Mobile,7089,1730,4,3
+1126,2024-05-05,West,Electronics,Pen,35312,8483,9,1
+1127,2024-05-06,South,Electronics,Pen,28628,9161,9,9
+1128,2024-05-07,North,Office Supplies,Mobile,46439,5732,6,5
+1129,2024-05-08,West,Furniture,Table,39152,8134,2,9
+1130,2024-05-09,West,Office Supplies,Pen,28290,5417,7,4
+1131,2024-05-10,West,Office Supplies,Chair,41453,119,9,5
+1132,2024-05-11,North,Furniture,Notebook,749,3974,6,4
+1133,2024-05-12,North,Office Supplies,Table,19809,6250,3,2
+1134,2024-05-13,North,Furniture,Mobile,26401,2057,7,1
+1135,2024-05-14,East,Electronics,Table,24076,9042,5,8
+1136,2024-05-15,North,Furniture,Laptop,32008,8169,1,4
+1137,2024-05-16,North,Electronics,Laptop,9675,2829,3,5
+1138,2024-05-17,North,Office Supplies,Pen,25964,4970,5,6
+1139,2024-05-18,East,Office Supplies,Pen,16760,805,7,8
+1140,2024-05-19,North,Electronics,Chair,35940,6545,3,8
+1141,2024-05-20,West,Office Supplies,Notebook,30046,5985,6,7
+1142,2024-05-21,North,Furniture,Table,40547,9563,5,4
+1143,2024-05-22,West,Electronics,Laptop,41930,2380,1,6
+1144,2024-05-23,West,Office Supplies,Pen,2487,5755,6,4
+1145,2024-05-24,West,Electronics,Notebook,49742,8351,8,7
+1146,2024-05-25,East,Furniture,Table,25605,1066,1,1
+1147,2024-05-26,East,Furniture,Pen,13448,7397,2,5
+1148,2024-05-27,East,Office Supplies,Pen,13526,8266,4,4
+1149,2024-05-28,North,Furniture,Laptop,3273,4988,2,7
+1150,2024-05-29,West,Electronics,Laptop,46427,2888,9,9
+1151,2024-05-30,East,Furniture,Pen,10378,787,8,5
+1152,2024-05-31,East,Electronics,Mobile,43446,6250,8,4
+1153,2024-06-01,North,Electronics,Pen,10877,8421,4,9
+1154,2024-06-02,East,Furniture,Notebook,7847,281,5,5
+1155,2024-06-03,North,Office Supplies,Pen,34276,1967,4,9
+1156,2024-06-04,South,Furniture,Chair,4283,8584,9,8
+1157,2024-06-05,East,Electronics,Chair,4798,5968,2,4
+1158,2024-06-06,South,Electronics,Chair,5168,2673,8,7
+1159,2024-06-07,North,Furniture,Mobile,21171,8696,2,5
+1160,2024-06-08,West,Office Supplies,Mobile,35320,6451,1,4
+1161,2024-06-09,East,Office Supplies,Pen,34984,7122,3,5
+1162,2024-06-10,North,Electronics,Chair,33578,2326,9,5
+1163,2024-06-11,West,Electronics,Mobile,47659,7443,3,9
+1164,2024-06-12,West,Office Supplies,Laptop,21422,8837,9,9
+1165,2024-06-13,South,Furniture,Pen,34528,3924,7,6
+1166,2024-06-14,North,Electronics,Notebook,46425,4580,1,4
+1167,2024-06-15,West,Electronics,Table,20816,7214,5,2
+1168,2024-06-16,East,Office Supplies,Pen,11960,4547,9,3
+1169,2024-06-17,East,Furniture,Table,17468,7983,3,2
+1170,2024-06-18,South,Office Supplies,Chair,30766,2185,9,5
+1171,2024-06-19,West,Furniture,Table,30709,6777,5,6
+1172,2024-06-20,North,Furniture,Chair,24500,1615,9,5
+1173,2024-06-21,East,Furniture,Laptop,14511,358,6,2
+1174,2024-06-22,West,Electronics,Table,3366,8584,9,5
+1175,2024-06-23,West,Office Supplies,Pen,47633,8677,7,9
+1176,2024-06-24,South,Office Supplies,Chair,6398,8418,7,4
+1177,2024-06-25,East,Furniture,Pen,18895,188,8,2
+1178,2024-06-26,East,Electronics,Mobile,39519,243,7,3
+1179,2024-06-27,North,Electronics,Chair,38207,3307,9,3
+1180,2024-06-28,East,Office Supplies,Table,4506,3285,9,9
+1181,2024-06-29,North,Electronics,Chair,34893,992,6,4
+1182,2024-06-30,East,Electronics,Pen,11456,4670,7,1
+1183,2024-07-01,South,Furniture,Laptop,31163,5770,2,1
+1184,2024-07-02,East,Electronics,Chair,6578,6403,9,7
+1185,2024-07-03,North,Furniture,Table,30131,5007,1,7
+1186,2024-07-04,North,Office Supplies,Mobile,30640,9195,1,2
+1187,2024-07-05,South,Electronics,Notebook,42191,9544,3,9
+1188,2024-07-06,East,Office Supplies,Laptop,4461,3431,6,9
+1189,2024-07-07,East,Office Supplies,Mobile,29777,5889,5,5
+1190,2024-07-08,South,Electronics,Chair,42074,2930,2,3
+1191,2024-07-09,East,Electronics,Pen,31917,4937,9,3
+1192,2024-07-10,East,Office Supplies,Pen,22984,595,4,3
+1193,2024-07-11,North,Electronics,Table,18603,1977,4,6
+1194,2024-07-12,East,Furniture,Pen,29845,4202,5,4
+1195,2024-07-13,East,Furniture,Laptop,46826,54,8,8
+1196,2024-07-14,South,Electronics,Pen,39954,5583,4,5
+1197,2024-07-15,South,Office Supplies,Table,2087,9604,5,1
+1198,2024-07-16,West,Electronics,Notebook,43071,5428,4,9
+1199,2024-07-17,North,Electronics,Chair,21531,6283,6,1
+1200,2024-07-18,East,Office Supplies,Chair,26712,2713,3,6
+1201,2024-07-19,East,Office Supplies,Pen,10850,9515,8,1
+1202,2024-07-20,West,Furniture,Mobile,19316,3376,6,3
+1203,2024-07-21,East,Office Supplies,Chair,20788,3709,5,5
+1204,2024-07-22,North,Furniture,Notebook,29932,1181,2,7
+1205,2024-07-23,West,Office Supplies,Pen,44722,4813,7,8
+1206,2024-07-24,North,Electronics,Table,49117,6787,2,9
+1207,2024-07-25,West,Furniture,Notebook,7337,5142,1,6
+1208,2024-07-26,West,Furniture,Pen,34717,6072,7,9
+1209,2024-07-27,South,Furniture,Notebook,21384,3209,5,8
+1210,2024-07-28,North,Electronics,Chair,5954,6209,1,9
+1211,2024-07-29,East,Electronics,Table,9924,7368,4,4
+1212,2024-07-30,East,Electronics,Pen,37385,8495,4,9
+1213,2024-07-31,North,Electronics,Laptop,42137,5357,7,7
+1214,2024-08-01,East,Electronics,Table,44118,8570,9,5
+1215,2024-08-02,East,Furniture,Laptop,18912,3094,2,5
+1216,2024-08-03,North,Electronics,Notebook,47611,9662,1,1
+1217,2024-08-04,West,Furniture,Mobile,40113,5686,2,2
+1218,2024-08-05,North,Electronics,Table,20642,2942,7,3
+1219,2024-08-06,West,Office Supplies,Notebook,37892,5338,6,8
+1220,2024-08-07,East,Furniture,Laptop,9348,5862,4,6
+1221,2024-08-08,East,Office Supplies,Chair,49817,704,1,5
+1222,2024-08-09,East,Furniture,Chair,13636,5531,1,1
+1223,2024-08-10,South,Office Supplies,Mobile,1089,809,5,9
+1224,2024-08-11,West,Electronics,Table,21408,6832,1,3
+1225,2024-08-12,South,Electronics,Table,7009,1848,7,3
+1226,2024-08-13,South,Electronics,Table,40961,5209,1,2
+1227,2024-08-14,North,Furniture,Notebook,42722,8496,1,4
+1228,2024-08-15,South,Office Supplies,Mobile,49723,5312,2,2
+1229,2024-08-16,North,Electronics,Table,44976,3873,3,9
+1230,2024-08-17,North,Office Supplies,Notebook,46210,1926,1,7
+1231,2024-08-18,South,Office Supplies,Chair,49920,6204,9,8
+1232,2024-08-19,West,Electronics,Laptop,10468,7837,8,3
+1233,2024-08-20,West,Electronics,Notebook,2962,4566,5,6
+1234,2024-08-21,West,Office Supplies,Chair,9960,3784,2,6
+1235,2024-08-22,West,Electronics,Chair,34283,9486,5,1
+1236,2024-08-23,West,Electronics,Laptop,9775,6022,6,6
+1237,2024-08-24,South,Electronics,Chair,29177,6689,1,3
+1238,2024-08-25,South,Furniture,Mobile,13769,5406,4,3
+1239,2024-08-26,East,Office Supplies,Laptop,906,6430,9,3
+1240,2024-08-27,West,Office Supplies,Chair,7884,1058,2,8
+1241,2024-08-28,South,Furniture,Pen,23053,4364,5,5
+1242,2024-08-29,East,Office Supplies,Notebook,24866,9752,1,4
+1243,2024-08-30,West,Electronics,Chair,44536,2558,4,9
+1244,2024-08-31,North,Office Supplies,Mobile,17869,4808,4,9
+1245,2024-09-01,East,Electronics,Table,12295,2732,6,1
+1246,2024-09-02,South,Furniture,Chair,4985,7361,9,2
+1247,2024-09-03,North,Electronics,Table,42169,1039,3,8
+1248,2024-09-04,North,Office Supplies,Pen,3118,8496,9,5
+1249,2024-09-05,North,Office Supplies,Chair,30643,4761,6,7
+1250,2024-09-06,East,Office Supplies,Laptop,29925,6529,7,1
+1251,2024-09-07,South,Furniture,Table,23173,7014,2,5
+1252,2024-09-08,North,Furniture,Pen,10103,8125,6,3
+1253,2024-09-09,West,Office Supplies,Laptop,40196,4502,6,2
+1254,2024-09-10,North,Electronics,Laptop,5868,8497,2,2
+1255,2024-09-11,North,Furniture,Laptop,5121,1057,2,9
+1256,2024-09-12,East,Office Supplies,Laptop,15219,6546,2,4
+1257,2024-09-13,East,Office Supplies,Chair,29727,9997,1,4
+1258,2024-09-14,South,Furniture,Notebook,44394,7738,5,7
+1259,2024-09-15,West,Furniture,Chair,8066,3958,8,2
+1260,2024-09-16,East,Furniture,Chair,12806,2853,2,3
+1261,2024-09-17,North,Electronics,Pen,24542,4429,5,3
+1262,2024-09-18,South,Electronics,Pen,15586,148,8,6
+1263,2024-09-19,North,Office Supplies,Notebook,17887,8438,5,3
+1264,2024-09-20,North,Furniture,Pen,27542,927,2,5
+1265,2024-09-21,East,Electronics,Mobile,24388,1918,3,4
+1266,2024-09-22,South,Furniture,Notebook,27014,2715,6,3
+1267,2024-09-23,West,Office Supplies,Pen,18823,1438,5,8
+1268,2024-09-24,West,Electronics,Notebook,18519,2465,4,3
+1269,2024-09-25,East,Electronics,Chair,10390,8811,4,6
+1270,2024-09-26,East,Electronics,Chair,41363,2687,5,7
+1271,2024-09-27,South,Office Supplies,Notebook,45987,7292,2,7
+1272,2024-09-28,West,Furniture,Mobile,10783,9307,9,2
+1273,2024-09-29,West,Electronics,Mobile,18779,8663,2,3
+1274,2024-09-30,West,Office Supplies,Notebook,47499,2933,2,4
+1275,2024-10-01,North,Furniture,Pen,23408,1254,9,7
+1276,2024-10-02,West,Office Supplies,Table,47966,594,3,2
+1277,2024-10-03,North,Furniture,Mobile,38452,1273,7,3
+1278,2024-10-04,South,Office Supplies,Laptop,35670,3222,4,7
+1279,2024-10-05,North,Furniture,Chair,38163,9009,6,7
+1280,2024-10-06,South,Electronics,Notebook,44672,6500,4,3
+1281,2024-10-07,West,Furniture,Laptop,48429,6570,7,1
+1282,2024-10-08,West,Office Supplies,Notebook,9843,704,1,3
+1283,2024-10-09,South,Office Supplies,Chair,11137,6871,3,5
+1284,2024-10-10,East,Furniture,Chair,35224,2496,3,7
+1285,2024-10-11,South,Electronics,Mobile,40291,5942,1,4
+1286,2024-10-12,East,Electronics,Mobile,29634,8462,6,1
+1287,2024-10-13,North,Furniture,Laptop,47330,3716,9,6
+1288,2024-10-14,North,Furniture,Notebook,47601,4327,8,2
+1289,2024-10-15,North,Office Supplies,Chair,4407,4452,7,3
+1290,2024-10-16,West,Electronics,Laptop,34075,2619,8,4
+1291,2024-10-17,North,Furniture,Table,47299,5565,6,6
+1292,2024-10-18,East,Electronics,Laptop,5327,9255,9,6
+1293,2024-10-19,North,Furniture,Pen,31107,4035,3,7
+1294,2024-10-20,South,Furniture,Laptop,14199,8217,9,5
+1295,2024-10-21,South,Electronics,Pen,37792,7498,4,7
+1296,2024-10-22,West,Furniture,Pen,48461,4360,7,2
+1297,2024-10-23,South,Furniture,Pen,26383,3069,9,1
+1298,2024-10-24,East,Office Supplies,Table,49491,3731,2,8
+1299,2024-10-25,North,Furniture,Laptop,5813,9685,2,1
+1300,2024-10-26,West,Furniture,Laptop,14098,4246,9,2
+1301,2024-10-27,North,Furniture,Table,46326,622,3,6
+1302,2024-10-28,North,Office Supplies,Chair,29307,9574,9,1
+1303,2024-10-29,East,Electronics,Mobile,5387,4803,5,3
+1304,2024-10-30,South,Office Supplies,Laptop,4354,7132,6,7
+1305,2024-10-31,South,Office Supplies,Mobile,45726,4052,2,8
+1306,2024-11-01,North,Electronics,Notebook,15036,5679,8,4
+1307,2024-11-02,West,Office Supplies,Notebook,4058,8467,9,3
+1308,2024-11-03,South,Electronics,Table,10272,4250,2,1
+1309,2024-11-04,West,Office Supplies,Notebook,36843,2047,6,9
+1310,2024-11-05,South,Electronics,Notebook,35686,9013,6,6
+1311,2024-11-06,West,Furniture,Chair,37466,7472,8,6
+1312,2024-11-07,East,Office Supplies,Chair,34269,4574,5,9
+1313,2024-11-08,West,Office Supplies,Chair,40387,8675,9,1
+1314,2024-11-09,East,Office Supplies,Notebook,19729,3457,1,6
+1315,2024-11-10,East,Office Supplies,Table,10173,6781,9,5
+1316,2024-11-11,West,Furniture,Pen,28377,7845,7,6
+1317,2024-11-12,East,Office Supplies,Pen,32101,9107,4,8
+1318,2024-11-13,North,Furniture,Mobile,38584,2843,3,5
+1319,2024-11-14,East,Furniture,Pen,16744,7384,6,2
+1320,2024-11-15,South,Furniture,Pen,27856,2961,1,2
+1321,2024-11-16,West,Furniture,Chair,17306,8002,3,5
+1322,2024-11-17,North,Electronics,Chair,23599,2465,2,3
+1323,2024-11-18,West,Electronics,Notebook,45141,300,9,3
+1324,2024-11-19,South,Office Supplies,Mobile,37534,5001,3,8
+1325,2024-11-20,South,Electronics,Laptop,40817,8148,2,7
+1326,2024-11-21,South,Electronics,Mobile,19594,5339,4,1
+1327,2024-11-22,East,Office Supplies,Mobile,11089,8152,2,5
+1328,2024-11-23,East,Office Supplies,Table,2157,7307,1,9
+1329,2024-11-24,West,Office Supplies,Notebook,33264,5615,6,4
+1330,2024-11-25,West,Electronics,Table,40031,6487,8,1
+1331,2024-11-26,North,Electronics,Mobile,3664,9160,2,8
+1332,2024-11-27,North,Office Supplies,Mobile,28042,1223,9,5
+1333,2024-11-28,West,Furniture,Mobile,18937,8674,3,2
+1334,2024-11-29,East,Office Supplies,Pen,41747,885,8,1
+1335,2024-11-30,South,Furniture,Table,39005,2312,8,3
+1336,2024-12-01,West,Furniture,Mobile,20101,9139,3,9
+1337,2024-12-02,North,Office Supplies,Chair,28930,4617,3,1
+1338,2024-12-03,East,Office Supplies,Notebook,6509,3865,6,4
+1339,2024-12-04,West,Office Supplies,Notebook,5052,296,1,8
+1340,2024-12-05,West,Electronics,Chair,9917,2479,4,8
+1341,2024-12-06,East,Furniture,Notebook,42489,9232,1,8
+1342,2024-12-07,West,Electronics,Pen,3171,9168,3,8
+1343,2024-12-08,East,Electronics,Pen,7019,5337,9,4
+1344,2024-12-09,South,Office Supplies,Laptop,37230,2657,5,8
+1345,2024-12-10,East,Electronics,Laptop,13234,9316,5,9
+1346,2024-12-11,East,Office Supplies,Laptop,46390,5980,4,7
+1347,2024-12-12,East,Furniture,Notebook,4222,4072,3,2
+1348,2024-12-13,West,Office Supplies,Pen,5406,4834,5,9
+1349,2024-12-14,West,Electronics,Pen,30596,6667,4,8
+1350,2024-12-15,East,Electronics,Pen,40531,3201,8,5
+1351,2024-12-16,West,Office Supplies,Chair,14199,5630,4,3
+1352,2024-12-17,North,Office Supplies,Pen,21938,7104,8,7
+1353,2024-12-18,North,Electronics,Chair,44356,7756,6,2
+1354,2024-12-19,West,Furniture,Laptop,34076,7669,5,3
+1355,2024-12-20,West,Furniture,Laptop,42438,4623,4,9
+1356,2024-12-21,East,Office Supplies,Notebook,49528,3541,4,4
+1357,2024-12-22,South,Furniture,Laptop,32747,756,4,4
+1358,2024-12-23,West,Electronics,Notebook,43961,7047,9,3
+1359,2024-12-24,North,Office Supplies,Mobile,28438,5283,4,5
+1360,2024-12-25,East,Electronics,Mobile,40969,8995,9,3
+1361,2024-12-26,West,Electronics,Table,18100,5805,6,9
+1362,2024-12-27,North,Furniture,Notebook,20935,7010,7,3
+1363,2024-12-28,North,Office Supplies,Table,19081,8829,3,2
+1364,2024-12-29,South,Office Supplies,Table,14691,1384,8,5
+1365,2024-12-30,East,Furniture,Mobile,19690,5638,3,6
+1366,2024-12-31,East,Electronics,Notebook,27886,1897,1,1
+1367,2025-01-01,South,Electronics,Mobile,32221,6901,5,6
+1368,2025-01-02,South,Electronics,Table,14204,7261,2,3
+1369,2025-01-03,East,Electronics,Notebook,2623,7915,6,4
+1370,2025-01-04,East,Office Supplies,Table,25674,3367,9,6
+1371,2025-01-05,West,Office Supplies,Pen,44801,6861,1,8
+1372,2025-01-06,West,Furniture,Notebook,49876,214,4,9
+1373,2025-01-07,South,Furniture,Notebook,47716,7110,1,6
+1374,2025-01-08,West,Office Supplies,Table,15086,3107,1,7
+1375,2025-01-09,North,Office Supplies,Pen,32476,4478,8,5
+1376,2025-01-10,West,Electronics,Chair,25916,452,2,9
+1377,2025-01-11,West,Electronics,Mobile,2314,8655,1,4
+1378,2025-01-12,North,Furniture,Table,13501,8286,8,6
+1379,2025-01-13,South,Office Supplies,Notebook,17008,6399,4,5
+1380,2025-01-14,North,Furniture,Mobile,20130,4207,3,1
+1381,2025-01-15,West,Office Supplies,Mobile,13880,917,4,5
+1382,2025-01-16,South,Electronics,Mobile,48674,8260,5,5
+1383,2025-01-17,West,Furniture,Chair,36199,414,1,9
+1384,2025-01-18,North,Furniture,Laptop,46835,7517,1,1
+1385,2025-01-19,North,Office Supplies,Table,47306,6621,3,5
+1386,2025-01-20,West,Electronics,Laptop,12817,629,6,7
+1387,2025-01-21,East,Furniture,Laptop,36239,7724,1,6
+1388,2025-01-22,East,Electronics,Laptop,35285,8787,2,6
+1389,2025-01-23,North,Furniture,Mobile,32480,6518,7,7
+1390,2025-01-24,North,Electronics,Pen,24299,4200,1,6
+1391,2025-01-25,East,Office Supplies,Mobile,35683,3089,7,5
+1392,2025-01-26,East,Furniture,Mobile,29666,4187,4,5
+1393,2025-01-27,West,Furniture,Notebook,19980,502,6,9
+1394,2025-01-28,West,Electronics,Notebook,2109,6587,8,8
+1395,2025-01-29,East,Electronics,Laptop,1217,1431,9,4
+1396,2025-01-30,West,Furniture,Mobile,20445,8204,6,4
+1397,2025-01-31,West,Office Supplies,Laptop,26092,1517,9,5
+1398,2025-02-01,South,Electronics,Notebook,28641,2788,4,3
+1399,2025-02-02,West,Electronics,Pen,30509,7622,6,8
+1400,2025-02-03,North,Electronics,Table,45930,9458,8,7
+1401,2025-02-04,West,Furniture,Laptop,7282,6797,9,5
+1402,2025-02-05,West,Furniture,Pen,27036,930,3,3
+1403,2025-02-06,East,Furniture,Table,34316,3199,2,5
+1404,2025-02-07,North,Furniture,Chair,26433,8326,6,3
+1405,2025-02-08,West,Office Supplies,Laptop,12118,7942,4,5
+1406,2025-02-09,West,Office Supplies,Laptop,8807,4194,1,1
+1407,2025-02-10,South,Furniture,Chair,27171,1218,8,6
+1408,2025-02-11,West,Office Supplies,Chair,41173,3179,9,4
+1409,2025-02-12,West,Electronics,Laptop,43261,3695,9,4
+1410,2025-02-13,South,Electronics,Chair,10838,2576,2,8
+1411,2025-02-14,East,Electronics,Mobile,38846,3566,9,2
+1412,2025-02-15,West,Furniture,Table,47102,3417,7,4
+1413,2025-02-16,South,Electronics,Table,7048,7388,5,2
+1414,2025-02-17,North,Office Supplies,Table,40649,3605,7,1
+1415,2025-02-18,East,Furniture,Mobile,21664,5161,9,3
+1416,2025-02-19,North,Office Supplies,Chair,28026,6802,8,8
+1417,2025-02-20,North,Electronics,Pen,31722,495,6,6
+1418,2025-02-21,South,Electronics,Chair,20676,6414,4,7
+1419,2025-02-22,West,Electronics,Laptop,3441,3676,1,2
+1420,2025-02-23,South,Furniture,Notebook,6195,4066,6,6
+1421,2025-02-24,South,Office Supplies,Table,39669,3925,3,8
+1422,2025-02-25,South,Furniture,Chair,48447,5547,6,8
+1423,2025-02-26,South,Furniture,Pen,47724,6288,6,4
+1424,2025-02-27,East,Electronics,Laptop,46365,311,4,6
+1425,2025-02-28,West,Furniture,Mobile,26053,5042,2,5
+1426,2025-03-01,North,Furniture,Mobile,39465,4075,9,9
+1427,2025-03-02,North,Electronics,Pen,38718,8333,2,8
+1428,2025-03-03,West,Furniture,Laptop,25859,4272,3,2
+1429,2025-03-04,North,Electronics,Table,25316,4225,1,7
+1430,2025-03-05,West,Electronics,Chair,8878,9224,7,7
+1431,2025-03-06,North,Electronics,Laptop,2381,3493,1,1
+1432,2025-03-07,South,Electronics,Mobile,40067,5061,9,1
+1433,2025-03-08,North,Furniture,Pen,47865,743,1,4
+1434,2025-03-09,West,Electronics,Pen,14175,8397,5,5
+1435,2025-03-10,West,Electronics,Chair,5086,1862,7,4
+1436,2025-03-11,West,Furniture,Pen,25506,5774,3,7
+1437,2025-03-12,West,Furniture,Pen,41698,1457,9,3
+1438,2025-03-13,West,Office Supplies,Laptop,23331,8082,8,7
+1439,2025-03-14,East,Furniture,Table,35613,9458,3,8
+1440,2025-03-15,East,Furniture,Chair,16959,1460,5,6
+1441,2025-03-16,North,Office Supplies,Laptop,32943,3547,7,6
+1442,2025-03-17,West,Furniture,Table,42816,4422,4,8
+1443,2025-03-18,North,Furniture,Laptop,31095,7444,5,8
+1444,2025-03-19,West,Furniture,Notebook,6377,601,3,7
+1445,2025-03-20,West,Furniture,Laptop,40053,9418,9,6
+1446,2025-03-21,East,Office Supplies,Pen,49101,4382,9,6
+1447,2025-03-22,East,Furniture,Table,5422,1047,7,6
+1448,2025-03-23,South,Furniture,Chair,5186,4126,2,8
+1449,2025-03-24,East,Office Supplies,Chair,33266,6149,7,1
+1450,2025-03-25,South,Electronics,Table,14907,5605,7,5
+1451,2025-03-26,South,Office Supplies,Pen,32506,4102,5,3
+1452,2025-03-27,South,Electronics,Mobile,31922,5353,9,8
+1453,2025-03-28,South,Office Supplies,Laptop,12705,8168,3,6
+1454,2025-03-29,South,Office Supplies,Pen,21554,6152,4,2
+1455,2025-03-30,North,Furniture,Notebook,24027,5540,1,7
+1456,2025-03-31,East,Electronics,Table,46447,8614,6,7
+1457,2025-04-01,South,Furniture,Laptop,18943,5666,4,5
+1458,2025-04-02,West,Electronics,Chair,17024,2298,1,8
+1459,2025-04-03,East,Office Supplies,Mobile,28702,898,2,5
+1460,2025-04-04,East,Office Supplies,Notebook,516,6404,3,1
+1461,2025-04-05,South,Electronics,Chair,46642,8745,9,9
+1462,2025-04-06,North,Furniture,Table,17348,8120,8,4
+1463,2025-04-07,South,Furniture,Laptop,21355,8944,7,2
+1464,2025-04-08,North,Furniture,Table,18711,3675,4,4
+1465,2025-04-09,West,Furniture,Laptop,25595,364,1,9
+1466,2025-04-10,East,Office Supplies,Pen,39224,2426,8,2
+1467,2025-04-11,West,Office Supplies,Mobile,49741,9282,4,4
+1468,2025-04-12,North,Office Supplies,Pen,38083,4428,3,2
+1469,2025-04-13,North,Office Supplies,Pen,3343,8499,9,5
+1470,2025-04-14,West,Office Supplies,Table,29801,624,4,3
+1471,2025-04-15,North,Furniture,Mobile,26960,9794,4,2
+1472,2025-04-16,West,Furniture,Laptop,32418,5635,9,9
+1473,2025-04-17,East,Furniture,Laptop,29247,5542,2,5
+1474,2025-04-18,West,Furniture,Notebook,16472,8999,5,5
+1475,2025-04-19,East,Office Supplies,Chair,28810,2860,4,1
+1476,2025-04-20,West,Office Supplies,Notebook,23427,8184,9,6
+1477,2025-04-21,North,Office Supplies,Notebook,1594,9346,5,7
+1478,2025-04-22,West,Electronics,Laptop,39392,5720,9,1
+1479,2025-04-23,North,Furniture,Table,34672,7765,9,9
+1480,2025-04-24,West,Furniture,Pen,23824,6617,2,8
+1481,2025-04-25,West,Office Supplies,Pen,21174,3509,9,8
+1482,2025-04-26,South,Furniture,Pen,4482,6167,3,7
+1483,2025-04-27,North,Furniture,Mobile,45783,4042,4,5
+1484,2025-04-28,South,Office Supplies,Laptop,16290,7887,1,3
+1485,2025-04-29,North,Electronics,Table,12705,253,1,9
+1486,2025-04-30,South,Electronics,Mobile,24838,2825,1,7
+1487,2025-05-01,East,Electronics,Chair,13248,2042,9,8
+1488,2025-05-02,West,Office Supplies,Table,21597,2293,8,6
+1489,2025-05-03,North,Furniture,Notebook,3592,8548,5,5
+1490,2025-05-04,North,Office Supplies,Table,23192,1737,5,8
+1491,2025-05-05,West,Office Supplies,Table,24362,4159,9,3
+1492,2025-05-06,North,Furniture,Pen,25360,1910,3,7
+1493,2025-05-07,North,Electronics,Table,14471,5226,3,2
+1494,2025-05-08,South,Electronics,Notebook,15116,772,7,3
+1495,2025-05-09,North,Office Supplies,Notebook,5433,9021,9,2
+1496,2025-05-10,East,Electronics,Laptop,5426,8770,6,5
+1497,2025-05-11,East,Office Supplies,Table,26263,4943,2,7
+1498,2025-05-12,West,Office Supplies,Pen,4469,393,1,1
+1499,2025-05-13,North,Furniture,Table,36233,5448,2,9
+1500,2025-05-14,West,Furniture,Chair,4819,8450,1,1
+1501,2025-05-15,East,Furniture,Chair,42243,4786,9,1
+1502,2025-05-16,North,Office Supplies,Pen,40376,3456,8,8
+1503,2025-05-17,North,Furniture,Laptop,42409,9553,7,6
+1504,2025-05-18,West,Electronics,Laptop,20823,969,3,6
+1505,2025-05-19,East,Electronics,Notebook,16928,5869,8,9
+1506,2025-05-20,North,Office Supplies,Notebook,35078,2094,2,4
+1507,2025-05-21,West,Office Supplies,Mobile,21450,468,2,8
+1508,2025-05-22,East,Furniture,Pen,43541,1799,3,4
+1509,2025-05-23,West,Office Supplies,Table,42289,7428,7,2
+1510,2025-05-24,South,Office Supplies,Pen,18793,1149,1,8
+1511,2025-05-25,North,Electronics,Mobile,6864,3442,8,7
+1512,2025-05-26,South,Electronics,Notebook,35849,2822,7,4
+1513,2025-05-27,East,Furniture,Pen,1191,6834,4,9
+1514,2025-05-28,South,Office Supplies,Pen,30562,1595,5,9
+1515,2025-05-29,South,Office Supplies,Notebook,1431,1120,1,8
+1516,2025-05-30,East,Electronics,Mobile,46396,6572,4,1
+1517,2025-05-31,West,Office Supplies,Notebook,32230,1900,1,7
+1518,2025-06-01,South,Electronics,Laptop,14726,5103,1,5
+1519,2025-06-02,West,Furniture,Table,14361,2989,1,7
+1520,2025-06-03,South,Electronics,Notebook,31801,7244,7,9
+1521,2025-06-04,West,Office Supplies,Mobile,48743,5901,7,2
+1522,2025-06-05,East,Furniture,Chair,23266,6723,4,4
+1523,2025-06-06,South,Electronics,Laptop,36674,728,2,4
+1524,2025-06-07,East,Electronics,Chair,41607,1038,3,2
+1525,2025-06-08,South,Furniture,Notebook,18195,9849,8,3
+1526,2025-06-09,East,Furniture,Laptop,41847,1552,8,8
+1527,2025-06-10,East,Electronics,Table,3621,1839,6,9
+1528,2025-06-11,South,Office Supplies,Notebook,18757,5331,9,6
+1529,2025-06-12,South,Electronics,Table,28664,5077,9,2
+1530,2025-06-13,South,Furniture,Pen,25991,1475,4,2
+1531,2025-06-14,North,Electronics,Chair,23665,6704,1,7
+1532,2025-06-15,West,Furniture,Laptop,49214,2490,1,8
+1533,2025-06-16,North,Furniture,Table,4248,6906,5,8
+1534,2025-06-17,North,Office Supplies,Mobile,33545,7417,2,6
+1535,2025-06-18,East,Furniture,Table,27053,9520,6,8
+1536,2025-06-19,South,Furniture,Mobile,44831,2644,7,1
+1537,2025-06-20,West,Office Supplies,Notebook,30997,4739,1,9
+1538,2025-06-21,East,Furniture,Laptop,31808,2486,6,1
+1539,2025-06-22,North,Office Supplies,Table,40060,5567,8,3
+1540,2025-06-23,South,Office Supplies,Table,47186,9269,5,9
+1541,2025-06-24,East,Furniture,Laptop,10874,6360,7,5
+1542,2025-06-25,South,Furniture,Table,5175,3589,6,9
+1543,2025-06-26,East,Electronics,Mobile,1670,3533,4,9
+1544,2025-06-27,South,Office Supplies,Table,41949,7421,7,6
+1545,2025-06-28,North,Electronics,Chair,43985,2291,9,1
+1546,2025-06-29,West,Furniture,Notebook,12950,6428,7,7
+1547,2025-06-30,North,Electronics,Pen,11180,2815,5,6
+1548,2025-07-01,West,Office Supplies,Mobile,10568,9415,7,9
+1549,2025-07-02,South,Electronics,Chair,35730,4961,3,7
+1550,2025-07-03,East,Office Supplies,Notebook,46918,453,2,4
+1551,2025-07-04,North,Furniture,Laptop,26706,3432,5,7
+1552,2025-07-05,West,Furniture,Mobile,787,4213,4,2
+1553,2025-07-06,North,Office Supplies,Pen,22837,7680,5,6
+1554,2025-07-07,West,Furniture,Notebook,21166,137,8,6
+1555,2025-07-08,North,Furniture,Pen,1661,9400,4,2
+1556,2025-07-09,West,Furniture,Laptop,49781,5866,9,4
+1557,2025-07-10,West,Furniture,Laptop,35631,5520,7,8
+1558,2025-07-11,South,Office Supplies,Mobile,25035,6326,7,8
+1559,2025-07-12,West,Electronics,Table,33028,5789,8,8
+1560,2025-07-13,South,Electronics,Laptop,39251,4323,6,8
+1561,2025-07-14,West,Furniture,Notebook,17027,9623,8,1
+1562,2025-07-15,East,Electronics,Table,41475,6573,3,2
+1563,2025-07-16,East,Electronics,Chair,24353,5053,1,4
+1564,2025-07-17,East,Furniture,Pen,15258,8088,6,9
+1565,2025-07-18,West,Furniture,Table,744,6656,1,3
+1566,2025-07-19,South,Electronics,Pen,3678,2114,9,6
+1567,2025-07-20,South,Office Supplies,Table,32331,5365,2,7
+1568,2025-07-21,West,Furniture,Chair,2676,367,2,8
+1569,2025-07-22,East,Office Supplies,Laptop,38270,1552,7,7
+1570,2025-07-23,East,Electronics,Chair,34154,6180,2,3
+1571,2025-07-24,South,Furniture,Laptop,27127,7469,8,6
+1572,2025-07-25,East,Office Supplies,Laptop,46989,2092,6,5
+1573,2025-07-26,North,Furniture,Pen,45410,4648,7,4
+1574,2025-07-27,South,Electronics,Notebook,25381,168,7,1
+1575,2025-07-28,East,Office Supplies,Chair,35922,759,6,7
+1576,2025-07-29,South,Electronics,Table,12484,3607,9,8
+1577,2025-07-30,North,Electronics,Chair,24276,3300,9,2
+1578,2025-07-31,South,Furniture,Pen,18255,8111,7,7
+1579,2025-08-01,South,Office Supplies,Laptop,7635,8659,9,6
+1580,2025-08-02,South,Electronics,Pen,820,2653,3,5
+1581,2025-08-03,South,Electronics,Mobile,37922,1151,3,4
+1582,2025-08-04,North,Office Supplies,Mobile,29135,4471,1,2
+1583,2025-08-05,West,Electronics,Table,22184,7907,5,6
+1584,2025-08-06,South,Electronics,Pen,23738,8227,4,5
+1585,2025-08-07,South,Office Supplies,Table,22389,6132,2,2
+1586,2025-08-08,East,Office Supplies,Table,30813,6708,9,7
+1587,2025-08-09,South,Office Supplies,Mobile,33035,2311,3,6
+1588,2025-08-10,East,Office Supplies,Table,49399,8071,8,9
+1589,2025-08-11,West,Furniture,Mobile,11270,558,6,5
+1590,2025-08-12,North,Office Supplies,Laptop,39821,2429,5,9
+1591,2025-08-13,North,Furniture,Pen,20926,8929,1,9
+1592,2025-08-14,West,Furniture,Table,44827,4802,4,1
+1593,2025-08-15,North,Furniture,Mobile,42277,9534,3,5
+1594,2025-08-16,West,Electronics,Chair,46750,5545,1,9
+1595,2025-08-17,West,Furniture,Table,7998,3259,5,7
+1596,2025-08-18,West,Furniture,Notebook,39904,7448,6,6
+1597,2025-08-19,North,Electronics,Laptop,40630,6793,2,6
+1598,2025-08-20,East,Electronics,Laptop,16895,5698,3,7
+1599,2025-08-21,West,Electronics,Chair,49846,5221,6,1
+1600,2025-08-22,South,Office Supplies,Mobile,3037,7940,4,4
+1601,2025-08-23,North,Electronics,Table,19726,374,9,1
+1602,2025-08-24,West,Electronics,Mobile,15716,3607,5,6
+1603,2025-08-25,West,Furniture,Laptop,19113,3637,4,4
+1604,2025-08-26,South,Electronics,Mobile,3509,201,2,1
+1605,2025-08-27,East,Office Supplies,Laptop,24868,1004,6,9
+1606,2025-08-28,East,Electronics,Mobile,29827,4404,2,4
+1607,2025-08-29,East,Office Supplies,Chair,14709,7210,7,6
+1608,2025-08-30,West,Electronics,Pen,48943,9433,3,7
+1609,2025-08-31,West,Electronics,Chair,15529,737,9,8
+1610,2025-09-01,West,Electronics,Chair,2577,8551,5,9
+1611,2025-09-02,North,Electronics,Pen,14407,9744,8,9
+1612,2025-09-03,South,Office Supplies,Pen,37135,3177,6,8
+1613,2025-09-04,West,Office Supplies,Table,49420,6813,8,3
+1614,2025-09-05,South,Furniture,Table,5373,3445,3,2
+1615,2025-09-06,South,Office Supplies,Chair,9135,9055,3,5
+1616,2025-09-07,East,Electronics,Chair,33565,895,5,1
+1617,2025-09-08,North,Furniture,Laptop,46363,1214,3,3
+1618,2025-09-09,West,Furniture,Laptop,42304,5954,8,1
+1619,2025-09-10,East,Furniture,Table,34283,5410,8,3
+1620,2025-09-11,East,Electronics,Notebook,34652,404,2,4
+1621,2025-09-12,West,Office Supplies,Notebook,42013,1922,4,7
+1622,2025-09-13,South,Electronics,Table,29592,2074,1,5
+1623,2025-09-14,East,Furniture,Laptop,18153,2867,4,5
+1624,2025-09-15,South,Electronics,Laptop,32963,3882,4,1
+1625,2025-09-16,North,Electronics,Notebook,34528,8307,9,8
+1626,2025-09-17,South,Office Supplies,Mobile,40969,2631,3,4
+1627,2025-09-18,North,Office Supplies,Mobile,21447,9632,2,5
+1628,2025-09-19,South,Furniture,Laptop,30478,9372,9,2
+1629,2025-09-20,East,Electronics,Mobile,22556,2536,9,1
+1630,2025-09-21,East,Electronics,Pen,29507,9076,1,9
+1631,2025-09-22,North,Office Supplies,Table,43669,8468,6,2
+1632,2025-09-23,West,Electronics,Table,48787,2493,8,6
+1633,2025-09-24,North,Electronics,Laptop,45132,8969,3,1
+1634,2025-09-25,North,Electronics,Chair,48949,1086,9,1
+1635,2025-09-26,South,Office Supplies,Notebook,6043,8734,2,9
+1636,2025-09-27,South,Furniture,Laptop,21567,7485,6,4
+1637,2025-09-28,North,Furniture,Mobile,45756,1598,1,9
+1638,2025-09-29,East,Electronics,Notebook,25597,9385,7,5
+1639,2025-09-30,South,Furniture,Chair,43347,5115,3,7
+1640,2025-10-01,West,Office Supplies,Mobile,44012,6546,7,1
+1641,2025-10-02,South,Office Supplies,Pen,4309,6233,4,6
+1642,2025-10-03,South,Furniture,Mobile,22691,4007,9,8
+1643,2025-10-04,West,Furniture,Pen,21767,3457,5,1
+1644,2025-10-05,North,Electronics,Notebook,7706,689,3,9
+1645,2025-10-06,West,Furniture,Pen,21557,222,8,3
+1646,2025-10-07,North,Electronics,Notebook,29492,5716,6,1
+1647,2025-10-08,North,Electronics,Notebook,47014,4404,2,1
+1648,2025-10-09,North,Office Supplies,Notebook,16495,4009,3,6
+1649,2025-10-10,West,Office Supplies,Notebook,49303,8758,8,6
+1650,2025-10-11,North,Office Supplies,Notebook,44939,8764,7,1
+1651,2025-10-12,East,Office Supplies,Mobile,13710,2936,6,3
+1652,2025-10-13,West,Furniture,Notebook,18293,2214,1,7
+1653,2025-10-14,East,Office Supplies,Mobile,26770,3995,9,3
+1654,2025-10-15,North,Furniture,Notebook,5697,5285,3,3
+1655,2025-10-16,South,Office Supplies,Pen,48821,7796,5,3
+1656,2025-10-17,North,Furniture,Notebook,7952,2640,7,7
+1657,2025-10-18,East,Electronics,Chair,41986,7804,7,4
+1658,2025-10-19,East,Furniture,Notebook,15359,4984,3,4
+1659,2025-10-20,West,Furniture,Notebook,27736,4126,4,3
+1660,2025-10-21,South,Office Supplies,Pen,32399,5235,7,9
+1661,2025-10-22,West,Furniture,Table,32583,1143,8,2
+1662,2025-10-23,East,Electronics,Pen,2672,3930,2,4
+1663,2025-10-24,North,Electronics,Chair,46426,6609,9,8
+1664,2025-10-25,South,Office Supplies,Table,17163,2835,7,6
+1665,2025-10-26,North,Electronics,Laptop,28040,6115,8,7
+1666,2025-10-27,North,Furniture,Laptop,19553,6589,6,7
+1667,2025-10-28,South,Electronics,Chair,11585,1624,6,2
+1668,2025-10-29,West,Office Supplies,Pen,31064,5726,9,4
+1669,2025-10-30,North,Furniture,Mobile,24709,8110,4,6
+1670,2025-10-31,East,Office Supplies,Chair,4481,4040,5,3
+1671,2025-11-01,North,Furniture,Table,21653,5260,9,9
+1672,2025-11-02,South,Electronics,Table,5747,4895,1,4
+1673,2025-11-03,South,Office Supplies,Notebook,11053,9335,4,2
+1674,2025-11-04,South,Office Supplies,Laptop,21311,1239,7,6
+1675,2025-11-05,West,Furniture,Table,30345,2739,9,1
+1676,2025-11-06,North,Office Supplies,Chair,6635,4145,6,6
+1677,2025-11-07,West,Furniture,Table,6073,1925,8,1
+1678,2025-11-08,West,Furniture,Chair,14231,7818,9,8
+1679,2025-11-09,South,Furniture,Mobile,7689,3456,4,5
+1680,2025-11-10,South,Furniture,Notebook,15041,3982,1,6
+1681,2025-11-11,West,Electronics,Laptop,44146,9849,8,2
+1682,2025-11-12,North,Furniture,Table,11587,8290,2,2
+1683,2025-11-13,East,Office Supplies,Chair,46935,5458,1,9
+1684,2025-11-14,West,Electronics,Pen,3276,3911,7,3
+1685,2025-11-15,North,Office Supplies,Laptop,42579,7456,9,6
+1686,2025-11-16,South,Electronics,Mobile,28064,2883,9,5
+1687,2025-11-17,South,Furniture,Chair,29335,5335,3,4
+1688,2025-11-18,North,Electronics,Notebook,8197,9639,6,2
+1689,2025-11-19,East,Electronics,Notebook,15129,7695,7,8
+1690,2025-11-20,South,Office Supplies,Mobile,8886,9073,9,7
+1691,2025-11-21,South,Office Supplies,Mobile,17546,4827,2,2
+1692,2025-11-22,South,Furniture,Notebook,8544,2785,8,6
+1693,2025-11-23,North,Electronics,Table,10115,8323,7,8
+1694,2025-11-24,West,Electronics,Table,48302,8328,4,7
+1695,2025-11-25,South,Electronics,Chair,5560,6418,2,1
+1696,2025-11-26,West,Furniture,Pen,11400,871,8,5
+1697,2025-11-27,East,Furniture,Chair,6081,7575,5,2
+1698,2025-11-28,South,Furniture,Pen,35282,212,6,6
+1699,2025-11-29,South,Furniture,Mobile,20673,7827,7,7
+1700,2025-11-30,East,Furniture,Laptop,13497,1982,1,7
+1701,2025-12-01,South,Office Supplies,Chair,43903,3585,8,3
+1702,2025-12-02,West,Electronics,Chair,46916,6006,4,7
+1703,2025-12-03,North,Electronics,Pen,7648,3496,9,5
+1704,2025-12-04,West,Electronics,Mobile,19248,2840,1,8
+1705,2025-12-05,North,Electronics,Mobile,14522,2757,2,8
+1706,2025-12-06,North,Electronics,Pen,20513,8009,6,7
+1707,2025-12-07,West,Electronics,Mobile,39187,3983,1,6
+1708,2025-12-08,West,Electronics,Notebook,16386,3435,4,2
+1709,2025-12-09,West,Electronics,Table,25756,6686,8,6
+1710,2025-12-10,West,Office Supplies,Notebook,30505,972,5,9
+1711,2025-12-11,East,Electronics,Laptop,7138,8139,9,2
+1712,2025-12-12,South,Office Supplies,Chair,37919,9824,6,1
+1713,2025-12-13,North,Furniture,Laptop,33877,614,1,5
+1714,2025-12-14,West,Electronics,Chair,41208,3308,6,6
+1715,2025-12-15,West,Furniture,Table,43616,2550,6,3
+1716,2025-12-16,West,Furniture,Mobile,37134,4616,6,8
+1717,2025-12-17,East,Furniture,Notebook,17255,9229,8,7
+1718,2025-12-18,West,Office Supplies,Pen,23882,6931,6,2
+1719,2025-12-19,West,Furniture,Notebook,22894,3686,5,7
+1720,2025-12-20,West,Furniture,Table,2753,6080,2,1
+1721,2025-12-21,South,Furniture,Laptop,38210,273,4,9
+1722,2025-12-22,East,Electronics,Pen,45598,6347,5,7
+1723,2025-12-23,West,Electronics,Mobile,1364,400,4,6
+1724,2025-12-24,North,Office Supplies,Table,34536,7364,2,2
+1725,2025-12-25,North,Office Supplies,Pen,40722,1978,7,3
+1726,2025-12-26,North,Electronics,Table,14166,7793,2,1
+1727,2025-12-27,East,Office Supplies,Table,21455,8590,1,5
+1728,2025-12-28,East,Electronics,Mobile,45638,4782,5,9
+1729,2025-12-29,North,Furniture,Chair,38497,1067,1,6
+1730,2025-12-30,West,Furniture,Pen,16809,2276,1,5
+1731,2025-12-31,East,Office Supplies,Mobile,4554,7256,1,3
+1732,2026-01-01,North,Electronics,Table,1435,7220,6,5
+1733,2026-01-02,North,Electronics,Mobile,45440,6257,9,8
+1734,2026-01-03,West,Office Supplies,Chair,23278,2469,1,2
+1735,2026-01-04,South,Electronics,Notebook,43798,6290,5,5
+1736,2026-01-05,East,Furniture,Pen,48828,1943,9,6
+1737,2026-01-06,West,Office Supplies,Chair,49424,5372,9,8
+1738,2026-01-07,North,Office Supplies,Laptop,17209,7768,1,8
+1739,2026-01-08,North,Electronics,Pen,10226,6928,8,5
+1740,2026-01-09,West,Office Supplies,Chair,41042,1175,1,9
+1741,2026-01-10,East,Electronics,Table,20745,3167,8,4
+1742,2026-01-11,South,Electronics,Pen,35253,4211,1,9
+1743,2026-01-12,South,Electronics,Pen,14752,4092,5,7
+1744,2026-01-13,North,Electronics,Mobile,21816,4483,8,6
+1745,2026-01-14,East,Electronics,Table,37871,8688,6,4
+1746,2026-01-15,South,Office Supplies,Laptop,19662,2708,9,2
+1747,2026-01-16,East,Furniture,Notebook,16460,3533,1,8
+1748,2026-01-17,East,Furniture,Chair,31291,2994,9,6
+1749,2026-01-18,North,Office Supplies,Mobile,42730,7260,1,3
+1750,2026-01-19,South,Office Supplies,Chair,25716,7703,3,7
+1751,2026-01-20,West,Furniture,Laptop,32967,8837,1,7
+1752,2026-01-21,North,Furniture,Laptop,47434,2036,3,6
+1753,2026-01-22,South,Furniture,Pen,8254,1124,2,2
+1754,2026-01-23,South,Furniture,Laptop,47514,4355,2,8
+1755,2026-01-24,South,Furniture,Chair,4578,3057,9,1
+1756,2026-01-25,South,Electronics,Table,13353,1019,8,1
+1757,2026-01-26,South,Office Supplies,Table,4542,8822,1,6
+1758,2026-01-27,East,Electronics,Pen,49552,2874,4,5
+1759,2026-01-28,North,Furniture,Notebook,14889,1261,1,9
+1760,2026-01-29,East,Furniture,Chair,30925,279,1,7
+1761,2026-01-30,West,Furniture,Chair,3075,4334,4,2
+1762,2026-01-31,South,Electronics,Laptop,40022,3235,2,7
+1763,2026-02-01,North,Electronics,Chair,28679,551,3,3
+1764,2026-02-02,South,Furniture,Mobile,35254,98,9,1
+1765,2026-02-03,North,Electronics,Notebook,19124,3616,2,8
+1766,2026-02-04,East,Electronics,Laptop,20850,3105,4,3
+1767,2026-02-05,North,Furniture,Mobile,27181,8930,1,8
+1768,2026-02-06,West,Electronics,Pen,24488,436,2,7
+1769,2026-02-07,West,Office Supplies,Table,15970,1019,5,2
+1770,2026-02-08,North,Office Supplies,Pen,25204,9247,1,1
+1771,2026-02-09,North,Office Supplies,Table,39236,5870,7,7
+1772,2026-02-10,North,Office Supplies,Pen,29877,3102,4,1
+1773,2026-02-11,North,Furniture,Chair,29072,7447,6,6
+1774,2026-02-12,West,Furniture,Mobile,7993,2352,8,8
+1775,2026-02-13,South,Furniture,Table,4603,2333,6,7
+1776,2026-02-14,North,Office Supplies,Laptop,35344,9849,2,4
+1777,2026-02-15,North,Office Supplies,Mobile,3494,4416,1,1
+1778,2026-02-16,West,Electronics,Laptop,4244,172,8,1
+1779,2026-02-17,West,Electronics,Mobile,47734,6849,8,4
+1780,2026-02-18,East,Office Supplies,Mobile,47791,9522,9,5
+1781,2026-02-19,North,Office Supplies,Pen,27832,3777,6,7
+1782,2026-02-20,East,Office Supplies,Table,6094,8500,1,4
+1783,2026-02-21,West,Office Supplies,Table,40799,9189,9,1
+1784,2026-02-22,West,Electronics,Mobile,7871,5008,3,7
+1785,2026-02-23,South,Office Supplies,Chair,47815,574,6,2
+1786,2026-02-24,North,Electronics,Chair,18528,9129,9,2
+1787,2026-02-25,East,Office Supplies,Laptop,36412,8449,3,8
+1788,2026-02-26,West,Office Supplies,Laptop,14490,198,5,5
+1789,2026-02-27,West,Office Supplies,Pen,47351,8051,5,2
+1790,2026-02-28,East,Electronics,Mobile,17126,487,7,5
+1791,2026-03-01,South,Electronics,Laptop,20969,3799,4,8
+1792,2026-03-02,West,Furniture,Laptop,41222,8236,4,6
+1793,2026-03-03,North,Office Supplies,Notebook,40537,4503,7,3
+1794,2026-03-04,West,Furniture,Mobile,7630,5386,9,8
+1795,2026-03-05,North,Furniture,Pen,7328,4601,4,9
+1796,2026-03-06,East,Electronics,Laptop,42112,2873,4,5
+1797,2026-03-07,North,Electronics,Pen,47488,5778,6,2
+1798,2026-03-08,East,Furniture,Table,39599,8727,6,2
+1799,2026-03-09,North,Office Supplies,Pen,46665,8441,7,7
+1800,2026-03-10,East,Electronics,Chair,18383,2032,1,1
+1801,2026-03-11,North,Office Supplies,Chair,43559,7046,3,2
+1802,2026-03-12,South,Office Supplies,Pen,19042,9713,9,4
+1803,2026-03-13,North,Furniture,Chair,43432,2361,6,1
+1804,2026-03-14,North,Furniture,Table,10950,7275,6,4
+1805,2026-03-15,South,Furniture,Mobile,20923,9763,5,5
+1806,2026-03-16,West,Furniture,Chair,2535,654,3,9
+1807,2026-03-17,West,Electronics,Chair,44731,8225,5,1
+1808,2026-03-18,North,Electronics,Pen,41245,5835,1,5
+1809,2026-03-19,South,Furniture,Table,17741,9659,3,2
+1810,2026-03-20,North,Electronics,Mobile,23654,4647,4,9
+1811,2026-03-21,East,Furniture,Pen,26125,7809,5,6
+1812,2026-03-22,East,Office Supplies,Pen,45450,7582,9,2
+1813,2026-03-23,North,Office Supplies,Notebook,33566,8790,4,3
+1814,2026-03-24,West,Office Supplies,Table,34191,888,3,8
+1815,2026-03-25,West,Furniture,Mobile,13831,3865,1,1
+1816,2026-03-26,North,Office Supplies,Table,21190,897,6,3
+1817,2026-03-27,North,Electronics,Mobile,19683,4759,7,1
+1818,2026-03-28,East,Office Supplies,Table,39846,4557,8,8
+1819,2026-03-29,West,Office Supplies,Pen,5375,6625,1,1
+1820,2026-03-30,North,Office Supplies,Pen,12754,4823,4,5
+1821,2026-03-31,East,Electronics,Laptop,29121,4518,5,4
+1822,2026-04-01,West,Furniture,Chair,11405,5242,2,7
+1823,2026-04-02,South,Electronics,Notebook,46621,3370,1,5
+1824,2026-04-03,East,Furniture,Table,16382,4748,8,8
+1825,2026-04-04,West,Furniture,Notebook,19541,4361,6,1
+1826,2026-04-05,West,Office Supplies,Laptop,29598,3723,5,5
+1827,2026-04-06,East,Furniture,Chair,42931,1614,9,4
+1828,2026-04-07,South,Electronics,Table,34209,1890,2,3
+1829,2026-04-08,East,Electronics,Mobile,35175,6108,8,5
+1830,2026-04-09,West,Furniture,Chair,5337,7181,9,3
+1831,2026-04-10,North,Office Supplies,Pen,46948,776,1,8
+1832,2026-04-11,North,Office Supplies,Laptop,24989,9486,7,3
+1833,2026-04-12,East,Electronics,Chair,18127,6747,8,1
+1834,2026-04-13,West,Office Supplies,Chair,6196,9307,3,9
+1835,2026-04-14,North,Furniture,Pen,49494,332,4,9
+1836,2026-04-15,West,Furniture,Table,14043,1131,3,6
+1837,2026-04-16,East,Electronics,Mobile,13115,3935,7,1
+1838,2026-04-17,North,Furniture,Pen,1966,2931,9,8
+1839,2026-04-18,West,Electronics,Mobile,31271,3020,3,2
+1840,2026-04-19,North,Furniture,Table,18850,9394,6,9
+1841,2026-04-20,East,Electronics,Chair,875,7035,8,8
+1842,2026-04-21,West,Office Supplies,Mobile,33530,997,6,3
+1843,2026-04-22,North,Furniture,Laptop,21246,4810,2,5
+1844,2026-04-23,East,Furniture,Laptop,23386,9959,7,9
+1845,2026-04-24,North,Electronics,Pen,44848,116,2,1
+1846,2026-04-25,North,Electronics,Table,43404,8878,2,9
+1847,2026-04-26,South,Furniture,Pen,33151,8555,2,4
+1848,2026-04-27,South,Electronics,Pen,8333,614,1,4
+1849,2026-04-28,East,Furniture,Notebook,2393,9843,1,4
+1850,2026-04-29,South,Office Supplies,Pen,31073,9067,7,9
+1851,2026-04-30,East,Electronics,Notebook,31871,3720,5,6
+1852,2026-05-01,South,Furniture,Laptop,41374,9267,3,8
+1853,2026-05-02,North,Office Supplies,Laptop,12326,2301,1,4
+1854,2026-05-03,East,Office Supplies,Pen,34920,854,6,3
+1855,2026-05-04,East,Furniture,Laptop,22424,4681,1,1
+1856,2026-05-05,North,Electronics,Table,33867,9633,9,7
+1857,2026-05-06,East,Furniture,Notebook,21699,1285,2,4
+1858,2026-05-07,East,Office Supplies,Notebook,26368,6770,1,8
+1859,2026-05-08,South,Furniture,Pen,9292,6956,7,3
+1860,2026-05-09,East,Electronics,Laptop,21097,6066,6,1
+1861,2026-05-10,West,Office Supplies,Mobile,36905,3599,6,5
+1862,2026-05-11,North,Furniture,Notebook,33196,7988,5,2
+1863,2026-05-12,South,Electronics,Pen,43623,4191,4,3
+1864,2026-05-13,South,Office Supplies,Pen,16489,7016,4,6
+1865,2026-05-14,West,Electronics,Table,29431,9596,3,3
+1866,2026-05-15,North,Office Supplies,Chair,9790,5385,8,3
+1867,2026-05-16,North,Furniture,Chair,38867,5127,7,6
+1868,2026-05-17,South,Electronics,Notebook,14842,5661,9,5
+1869,2026-05-18,East,Office Supplies,Table,25441,8139,1,9
+1870,2026-05-19,South,Electronics,Table,14445,2942,7,1
+1871,2026-05-20,North,Electronics,Table,11262,5627,4,3
+1872,2026-05-21,West,Furniture,Notebook,30633,3668,7,3
+1873,2026-05-22,South,Electronics,Chair,47580,1609,1,6
+1874,2026-05-23,North,Office Supplies,Table,40650,6733,5,8
+1875,2026-05-24,South,Office Supplies,Laptop,27552,1557,3,3
+1876,2026-05-25,East,Office Supplies,Pen,42250,2113,5,3
+1877,2026-05-26,South,Office Supplies,Pen,20453,3692,4,6
+1878,2026-05-27,South,Furniture,Mobile,40975,2050,2,8
+1879,2026-05-28,North,Electronics,Mobile,17630,1344,4,6
+1880,2026-05-29,North,Furniture,Notebook,31586,4115,3,3
+1881,2026-05-30,North,Electronics,Notebook,5133,8064,1,4
+1882,2026-05-31,South,Electronics,Pen,17804,9995,8,1
+1883,2026-06-01,East,Electronics,Laptop,42537,1653,5,8
+1884,2026-06-02,West,Furniture,Chair,32784,1372,4,4
+1885,2026-06-03,West,Electronics,Chair,47046,6006,5,6
+1886,2026-06-04,North,Furniture,Notebook,7508,2491,4,3
+1887,2026-06-05,North,Office Supplies,Laptop,48791,1148,3,6
+1888,2026-06-06,South,Office Supplies,Notebook,27905,5123,5,9
+1889,2026-06-07,West,Electronics,Chair,36886,9747,4,9
+1890,2026-06-08,North,Furniture,Notebook,25873,9368,1,3
+1891,2026-06-09,East,Office Supplies,Table,21327,8538,3,3
+1892,2026-06-10,East,Furniture,Notebook,33540,3837,8,4
+1893,2026-06-11,North,Furniture,Pen,13507,2146,7,7
+1894,2026-06-12,North,Electronics,Notebook,18657,2258,2,3
+1895,2026-06-13,West,Office Supplies,Pen,32657,6038,1,8
+1896,2026-06-14,West,Electronics,Laptop,35815,225,3,8
+1897,2026-06-15,South,Electronics,Chair,36432,7219,5,6
+1898,2026-06-16,West,Office Supplies,Mobile,21664,6064,1,4
+1899,2026-06-17,East,Office Supplies,Mobile,14914,1717,3,5
+1900,2026-06-18,East,Furniture,Chair,14827,8917,3,2
+1901,2026-06-19,North,Office Supplies,Mobile,48844,1873,5,6
+1902,2026-06-20,West,Furniture,Notebook,1446,5197,3,3
+1903,2026-06-21,South,Furniture,Laptop,15193,1406,9,6
+1904,2026-06-22,East,Furniture,Laptop,27741,3122,1,5
+1905,2026-06-23,East,Office Supplies,Chair,30754,3309,4,2
+1906,2026-06-24,South,Electronics,Mobile,16040,6249,4,5
+1907,2026-06-25,South,Furniture,Notebook,7219,596,1,5
+1908,2026-06-26,East,Electronics,Laptop,41703,5281,2,9
+1909,2026-06-27,East,Electronics,Laptop,25581,8015,1,8
+1910,2026-06-28,South,Office Supplies,Table,11850,2133,6,7
+1911,2026-06-29,East,Electronics,Table,36858,2090,3,3
+1912,2026-06-30,North,Electronics,Laptop,32521,4584,7,4
+1913,2026-07-01,North,Office Supplies,Chair,43332,1802,5,6
+1914,2026-07-02,South,Furniture,Pen,28869,9857,9,3
+1915,2026-07-03,West,Electronics,Pen,32228,1899,7,9
+1916,2026-07-04,South,Office Supplies,Notebook,18076,2692,4,8
+1917,2026-07-05,South,Electronics,Laptop,29501,1650,5,6
+1918,2026-07-06,West,Electronics,Laptop,18348,4452,5,4
+1919,2026-07-07,West,Furniture,Laptop,890,3849,5,7
+1920,2026-07-08,West,Electronics,Chair,22499,668,9,3
+1921,2026-07-09,North,Office Supplies,Table,45936,1182,3,8
+1922,2026-07-10,East,Electronics,Laptop,12069,5541,6,1
+1923,2026-07-11,North,Furniture,Laptop,13529,5845,8,3
+1924,2026-07-12,East,Furniture,Mobile,22990,7683,9,5
+1925,2026-07-13,North,Office Supplies,Chair,46375,1537,7,5
+1926,2026-07-14,East,Furniture,Notebook,35828,7898,3,2
+1927,2026-07-15,North,Electronics,Laptop,6367,5059,1,8
+1928,2026-07-16,West,Furniture,Mobile,15784,9799,4,5
+1929,2026-07-17,South,Office Supplies,Pen,34479,2163,6,7
+1930,2026-07-18,North,Furniture,Notebook,9621,1094,3,7
+1931,2026-07-19,East,Furniture,Laptop,2039,2481,1,5
+1932,2026-07-20,West,Furniture,Laptop,25988,8029,6,8
+1933,2026-07-21,North,Office Supplies,Mobile,17527,1632,1,9
+1934,2026-07-22,North,Furniture,Chair,9193,1358,9,4
+1935,2026-07-23,West,Furniture,Laptop,9421,4967,1,4
+1936,2026-07-24,North,Electronics,Pen,10810,8843,6,8
+1937,2026-07-25,South,Office Supplies,Laptop,46012,1670,1,1
+1938,2026-07-26,North,Furniture,Pen,31408,7553,7,4
+1939,2026-07-27,South,Office Supplies,Notebook,4886,4816,3,6
+1940,2026-07-28,South,Furniture,Notebook,32763,5412,6,4
+1941,2026-07-29,West,Furniture,Table,28912,5242,7,6
+1942,2026-07-30,North,Furniture,Table,17803,6672,1,5
+1943,2026-07-31,West,Electronics,Pen,12742,6143,1,9
+1944,2026-08-01,North,Electronics,Chair,47525,6754,5,9
+1945,2026-08-02,North,Electronics,Laptop,9447,150,6,4
+1946,2026-08-03,East,Office Supplies,Laptop,47214,6707,9,4
+1947,2026-08-04,North,Office Supplies,Table,6430,5925,1,8
+1948,2026-08-05,West,Electronics,Pen,38670,4321,4,4
+1949,2026-08-06,South,Office Supplies,Laptop,49285,287,8,2
+1950,2026-08-07,North,Furniture,Laptop,1007,7276,9,2
+1951,2026-08-08,East,Furniture,Chair,1936,8082,3,1
+1952,2026-08-09,West,Furniture,Mobile,27651,5268,2,5
+1953,2026-08-10,North,Electronics,Table,12118,4075,4,6
+1954,2026-08-11,West,Office Supplies,Table,9250,6123,2,9
+1955,2026-08-12,East,Electronics,Mobile,16622,2592,1,5
+1956,2026-08-13,East,Office Supplies,Laptop,7854,1587,3,6
+1957,2026-08-14,West,Furniture,Chair,44562,804,7,6
+1958,2026-08-15,North,Electronics,Chair,31479,7446,1,3
+1959,2026-08-16,South,Office Supplies,Table,21400,7873,2,4
+1960,2026-08-17,East,Office Supplies,Chair,14340,5557,1,1
+1961,2026-08-18,North,Furniture,Notebook,37667,4285,8,4
+1962,2026-08-19,North,Electronics,Mobile,5537,590,5,1
+1963,2026-08-20,South,Electronics,Laptop,29133,5560,8,5
+1964,2026-08-21,East,Electronics,Notebook,24995,8511,3,8
+1965,2026-08-22,East,Furniture,Mobile,16348,7976,7,8
+1966,2026-08-23,North,Electronics,Pen,36983,5181,8,5
+1967,2026-08-24,North,Furniture,Table,48145,8747,6,2
+1968,2026-08-25,South,Furniture,Chair,8337,1179,7,6
+1969,2026-08-26,South,Furniture,Pen,34569,3195,2,1
+1970,2026-08-27,East,Office Supplies,Chair,7870,8603,8,7
+1971,2026-08-28,West,Electronics,Notebook,6911,3770,5,4
+1972,2026-08-29,East,Electronics,Laptop,39633,9698,7,5
+1973,2026-08-30,North,Furniture,Laptop,30999,4117,1,6
+1974,2026-08-31,East,Furniture,Laptop,30725,4245,5,1
+1975,2026-09-01,West,Electronics,Chair,48717,9923,1,9
+1976,2026-09-02,South,Furniture,Pen,1192,9294,8,4
+1977,2026-09-03,West,Electronics,Laptop,29426,7331,4,8
+1978,2026-09-04,West,Office Supplies,Pen,34746,2559,4,5
+1979,2026-09-05,West,Furniture,Chair,39664,5066,2,8
+1980,2026-09-06,South,Electronics,Notebook,8948,6583,5,1
+1981,2026-09-07,West,Furniture,Pen,43890,4777,1,8
+1982,2026-09-08,West,Electronics,Notebook,10573,731,9,4
+1983,2026-09-09,West,Electronics,Chair,35914,3982,5,2
+1984,2026-09-10,North,Furniture,Chair,5709,5610,6,6
+1985,2026-09-11,West,Office Supplies,Table,7033,4066,2,2
+1986,2026-09-12,South,Electronics,Chair,21561,7389,1,5
+1987,2026-09-13,West,Electronics,Chair,7711,769,4,2
+1988,2026-09-14,West,Electronics,Mobile,10427,124,7,3
+1989,2026-09-15,South,Office Supplies,Laptop,12427,9535,6,6
+1990,2026-09-16,West,Office Supplies,Table,25094,4207,1,1
+1991,2026-09-17,South,Furniture,Table,9816,8561,1,6
+1992,2026-09-18,West,Office Supplies,Table,12677,2199,8,3
+1993,2026-09-19,South,Furniture,Mobile,11346,9694,4,7
+1994,2026-09-20,West,Furniture,Notebook,8433,9797,5,2
+1995,2026-09-21,West,Office Supplies,Chair,38744,6763,7,6
+1996,2026-09-22,North,Furniture,Laptop,47121,4257,8,8
+1997,2026-09-23,North,Office Supplies,Pen,41196,7191,7,1
+1998,2026-09-24,West,Furniture,Notebook,2580,8702,2,9
+1999,2026-09-25,West,Office Supplies,Chair,6589,9128,4,5
+2000,2026-09-26,East,Office Supplies,Mobile,26623,3986,1,5
+2001,2026-09-27,South,Furniture,Chair,8297,9357,9,5
+2002,2026-09-28,East,Electronics,Chair,8846,1125,3,6
+2003,2026-09-29,North,Furniture,Mobile,20378,3926,3,2
+2004,2026-09-30,North,Office Supplies,Table,34172,4665,9,6
+2005,2026-10-01,North,Electronics,Table,18153,7315,3,4
+2006,2026-10-02,North,Furniture,Laptop,43242,6429,8,8
+2007,2026-10-03,West,Furniture,Laptop,26640,9168,2,9
+2008,2026-10-04,North,Furniture,Table,1684,4702,3,9
+2009,2026-10-05,West,Electronics,Notebook,34993,6842,2,8
+2010,2026-10-06,West,Office Supplies,Pen,44648,9297,1,3
+2011,2026-10-07,North,Furniture,Chair,25346,7506,2,4
+2012,2026-10-08,North,Furniture,Pen,46325,4724,8,1
+2013,2026-10-09,South,Furniture,Chair,22695,591,9,9
+2014,2026-10-10,East,Furniture,Table,6106,2211,2,5
+2015,2026-10-11,North,Furniture,Laptop,4456,2301,7,6
+2016,2026-10-12,South,Office Supplies,Notebook,17055,9294,5,3
+2017,2026-10-13,South,Office Supplies,Laptop,25349,4619,3,8
+2018,2026-10-14,East,Furniture,Pen,19190,2794,9,7
+2019,2026-10-15,West,Electronics,Laptop,49349,6091,6,1
+2020,2026-10-16,North,Office Supplies,Table,26847,4725,1,5
+2021,2026-10-17,East,Electronics,Notebook,33689,1610,5,9
+2022,2026-10-18,North,Office Supplies,Pen,38808,1214,7,6
+2023,2026-10-19,South,Furniture,Notebook,26285,5469,4,8
+2024,2026-10-20,South,Office Supplies,Chair,49556,2772,8,1
+2025,2026-10-21,West,Furniture,Laptop,33198,520,5,7
+2026,2026-10-22,South,Office Supplies,Notebook,16466,9658,9,3
+2027,2026-10-23,South,Furniture,Mobile,31597,1518,9,9
+2028,2026-10-24,East,Furniture,Laptop,16382,7975,9,6
+2029,2026-10-25,North,Furniture,Chair,5175,858,1,5
+2030,2026-10-26,North,Furniture,Notebook,42350,8413,2,8
+2031,2026-10-27,East,Electronics,Pen,13509,6769,3,8
+2032,2026-10-28,West,Furniture,Chair,28343,5123,4,3
+2033,2026-10-29,North,Electronics,Mobile,30293,8062,9,2
+2034,2026-10-30,South,Electronics,Notebook,40016,1695,6,2
+2035,2026-10-31,North,Furniture,Table,39371,8299,1,5
+2036,2026-11-01,South,Electronics,Laptop,18357,1179,9,7
+2037,2026-11-02,West,Office Supplies,Pen,20127,1403,6,8
+2038,2026-11-03,East,Furniture,Table,19065,817,4,8
+2039,2026-11-04,North,Electronics,Notebook,26525,3945,4,8
+2040,2026-11-05,East,Furniture,Notebook,28332,8924,3,3
+2041,2026-11-06,North,Furniture,Chair,44616,3504,7,2
+2042,2026-11-07,South,Furniture,Notebook,10282,7379,3,4
+2043,2026-11-08,East,Electronics,Pen,39150,1840,2,1
+2044,2026-11-09,North,Office Supplies,Table,22866,9719,8,3
+2045,2026-11-10,South,Office Supplies,Pen,29057,935,4,9
+2046,2026-11-11,East,Electronics,Mobile,6298,7784,8,7
+2047,2026-11-12,East,Furniture,Mobile,10127,3956,1,7
+2048,2026-11-13,North,Electronics,Laptop,41683,4542,5,1
+2049,2026-11-14,North,Electronics,Laptop,12966,9780,9,7
+2050,2026-11-15,North,Electronics,Mobile,43114,2123,1,7
+2051,2026-11-16,South,Furniture,Notebook,13220,362,4,4
+2052,2026-11-17,North,Electronics,Pen,42413,6319,6,7
+2053,2026-11-18,East,Furniture,Mobile,37792,5367,8,8
+2054,2026-11-19,East,Electronics,Laptop,7059,860,3,3
+2055,2026-11-20,North,Office Supplies,Mobile,40888,6891,5,2
+2056,2026-11-21,North,Electronics,Notebook,19658,2082,7,7
+2057,2026-11-22,West,Electronics,Mobile,31416,9749,1,5
+2058,2026-11-23,East,Office Supplies,Pen,22557,7179,7,5
+2059,2026-11-24,South,Furniture,Table,36392,2755,8,5
+2060,2026-11-25,West,Furniture,Notebook,41939,8838,8,7
+2061,2026-11-26,North,Electronics,Laptop,12206,2197,9,9
+2062,2026-11-27,North,Office Supplies,Pen,12570,665,6,8
+2063,2026-11-28,East,Furniture,Mobile,41402,997,6,6
+2064,2026-11-29,North,Electronics,Mobile,1424,5727,2,7
+2065,2026-11-30,South,Office Supplies,Table,26978,4701,3,9
+2066,2026-12-01,East,Furniture,Laptop,6006,7916,4,6
+2067,2026-12-02,North,Furniture,Laptop,46918,2063,4,1
+2068,2026-12-03,East,Office Supplies,Chair,35663,3747,8,4
+2069,2026-12-04,North,Office Supplies,Laptop,25104,540,1,8
+2070,2026-12-05,North,Office Supplies,Table,15810,4400,4,7
+2071,2026-12-06,North,Office Supplies,Chair,8726,2478,4,3
+2072,2026-12-07,South,Electronics,Chair,12281,5037,1,3
+2073,2026-12-08,South,Office Supplies,Mobile,6015,8783,3,3
+2074,2026-12-09,East,Furniture,Mobile,36633,9529,5,1
+2075,2026-12-10,North,Furniture,Laptop,17472,9875,6,1
+2076,2026-12-11,North,Electronics,Chair,32592,4970,9,6
+2077,2026-12-12,South,Furniture,Mobile,11910,2976,9,1
+2078,2026-12-13,North,Furniture,Table,20022,9594,9,5
+2079,2026-12-14,South,Office Supplies,Mobile,9595,7332,1,4
+2080,2026-12-15,North,Furniture,Notebook,23547,4426,9,5
+2081,2026-12-16,East,Electronics,Notebook,20970,9540,8,7
+2082,2026-12-17,North,Office Supplies,Mobile,43629,4918,2,6
+2083,2026-12-18,North,Office Supplies,Chair,9031,7036,1,9
+2084,2026-12-19,West,Electronics,Chair,37538,6912,1,6
+2085,2026-12-20,South,Office Supplies,Pen,22903,4473,6,9
+2086,2026-12-21,North,Office Supplies,Notebook,43174,6920,9,4
+2087,2026-12-22,North,Electronics,Table,29622,8209,7,1
+2088,2026-12-23,West,Office Supplies,Chair,17440,2123,5,1
+2089,2026-12-24,West,Electronics,Laptop,30331,6220,2,7
+2090,2026-12-25,South,Electronics,Notebook,11779,751,1,3
+2091,2026-12-26,West,Furniture,Table,38720,8163,2,2
+2092,2026-12-27,East,Furniture,Table,6977,6875,1,6
+2093,2026-12-28,West,Office Supplies,Chair,17900,7917,3,6
+2094,2026-12-29,East,Office Supplies,Table,6970,4314,6,7
+2095,2026-12-30,South,Electronics,Chair,2562,8018,8,5
+2096,2026-12-31,South,Office Supplies,Mobile,42298,8196,3,8
+2097,2027-01-01,South,Electronics,Notebook,20380,7826,9,7
+2098,2027-01-02,South,Electronics,Pen,35081,8608,5,2
+2099,2027-01-03,South,Office Supplies,Mobile,44939,8769,7,1
+2100,2027-01-04,East,Electronics,Notebook,14808,4936,8,9
+2101,2027-01-05,East,Furniture,Chair,26527,3985,3,5
+2102,2027-01-06,South,Office Supplies,Notebook,31220,4669,2,5
+2103,2027-01-07,West,Furniture,Chair,35581,5241,2,4
+2104,2027-01-08,North,Office Supplies,Mobile,10206,6925,5,2
+2105,2027-01-09,South,Electronics,Laptop,10337,7906,1,5
+2106,2027-01-10,West,Office Supplies,Laptop,39099,5451,2,2
+2107,2027-01-11,North,Furniture,Notebook,37324,3072,9,7
+2108,2027-01-12,South,Electronics,Laptop,33573,5788,7,9
+2109,2027-01-13,South,Office Supplies,Chair,47615,6034,6,9
+2110,2027-01-14,East,Office Supplies,Table,32588,1820,9,6
+2111,2027-01-15,North,Office Supplies,Chair,28612,9039,7,1
+2112,2027-01-16,North,Furniture,Table,26799,3265,5,6
+2113,2027-01-17,West,Furniture,Mobile,34957,6744,9,5
+2114,2027-01-18,East,Office Supplies,Pen,30563,3026,6,4
+2115,2027-01-19,East,Electronics,Table,4417,3787,6,6
+2116,2027-01-20,East,Electronics,Laptop,3436,9953,4,6
+2117,2027-01-21,East,Furniture,Chair,37130,802,1,6
+2118,2027-01-22,North,Electronics,Mobile,15006,1442,5,2
+2119,2027-01-23,North,Furniture,Laptop,29305,6839,9,7
+2120,2027-01-24,South,Office Supplies,Mobile,14818,727,8,4
+2121,2027-01-25,South,Furniture,Pen,48568,155,8,9
+2122,2027-01-26,East,Furniture,Chair,26526,4803,5,2
+2123,2027-01-27,East,Office Supplies,Notebook,28172,1996,9,5
+2124,2027-01-28,East,Electronics,Chair,38917,5594,3,4
+2125,2027-01-29,South,Furniture,Pen,27781,1145,3,9
+2126,2027-01-30,West,Furniture,Chair,48942,7035,1,4
+2127,2027-01-31,West,Office Supplies,Notebook,28591,1832,9,8
+2128,2027-02-01,South,Electronics,Table,38828,4591,6,8
+2129,2027-02-02,South,Furniture,Mobile,48719,3307,2,6
+2130,2027-02-03,South,Office Supplies,Notebook,19110,6263,8,6
+2131,2027-02-04,South,Furniture,Laptop,1579,4919,9,8
+2132,2027-02-05,South,Office Supplies,Pen,30350,1611,9,9
+2133,2027-02-06,South,Electronics,Table,47251,4056,2,5
+2134,2027-02-07,East,Electronics,Laptop,21090,9917,2,1
+2135,2027-02-08,East,Electronics,Laptop,31451,9364,7,1
+2136,2027-02-09,East,Electronics,Pen,15827,4031,4,2
+2137,2027-02-10,East,Furniture,Table,13255,9543,1,5
+2138,2027-02-11,South,Furniture,Laptop,7735,5732,8,4
+2139,2027-02-12,West,Electronics,Laptop,17697,5832,2,1
+2140,2027-02-13,North,Electronics,Table,21973,993,3,4
+2141,2027-02-14,South,Electronics,Chair,2531,4600,5,4
+2142,2027-02-15,North,Furniture,Laptop,41782,9187,3,4
+2143,2027-02-16,West,Electronics,Mobile,42363,650,7,1
+2144,2027-02-17,East,Electronics,Table,14787,6426,7,9
+2145,2027-02-18,West,Electronics,Laptop,39179,9659,2,3
+2146,2027-02-19,South,Office Supplies,Pen,44963,1574,7,4
+2147,2027-02-20,East,Electronics,Notebook,32730,3816,6,5
+2148,2027-02-21,South,Office Supplies,Mobile,19537,300,9,7
+2149,2027-02-22,East,Office Supplies,Notebook,27552,9786,9,6
+2150,2027-02-23,North,Electronics,Notebook,3840,128,2,5
+2151,2027-02-24,North,Office Supplies,Laptop,41144,3173,7,8
+2152,2027-02-25,North,Electronics,Mobile,49164,9139,5,1
+2153,2027-02-26,West,Furniture,Mobile,45703,7114,6,7
+2154,2027-02-27,South,Furniture,Chair,1641,8467,1,6
+2155,2027-02-28,West,Furniture,Notebook,25925,1259,7,5
+2156,2027-03-01,North,Furniture,Mobile,19781,5203,6,7
+2157,2027-03-02,South,Office Supplies,Chair,42549,4948,4,3
+2158,2027-03-03,North,Electronics,Table,20925,2228,1,1
+2159,2027-03-04,West,Electronics,Chair,35306,7660,9,9
+2160,2027-03-05,West,Electronics,Pen,32613,8945,4,2
+2161,2027-03-06,West,Furniture,Laptop,4770,2594,2,3
+2162,2027-03-07,North,Furniture,Table,43314,5572,8,8
+2163,2027-03-08,South,Electronics,Table,5183,2420,2,9
+2164,2027-03-09,South,Furniture,Pen,40384,3331,5,3
+2165,2027-03-10,North,Electronics,Chair,30309,4760,6,6
+2166,2027-03-11,South,Electronics,Laptop,35052,378,8,7
+2167,2027-03-12,North,Electronics,Chair,4286,5629,1,1
+2168,2027-03-13,South,Electronics,Mobile,22150,4278,1,7
+2169,2027-03-14,East,Electronics,Chair,29206,6844,4,4
+2170,2027-03-15,East,Electronics,Table,9690,170,5,5
+2171,2027-03-16,West,Electronics,Laptop,38696,6799,9,8
+2172,2027-03-17,East,Furniture,Chair,39949,1014,7,4
+2173,2027-03-18,East,Electronics,Laptop,40161,4274,7,4
+2174,2027-03-19,East,Electronics,Laptop,30209,3725,8,8
+2175,2027-03-20,North,Furniture,Mobile,45929,5744,5,5
+2176,2027-03-21,East,Furniture,Mobile,15392,2126,5,6
+2177,2027-03-22,East,Furniture,Table,10143,6915,1,5
+2178,2027-03-23,West,Electronics,Pen,10443,5693,9,1
+2179,2027-03-24,East,Office Supplies,Laptop,43740,8574,6,7
+2180,2027-03-25,East,Office Supplies,Pen,46260,5299,9,6
+2181,2027-03-26,South,Furniture,Table,21542,1366,3,2
+2182,2027-03-27,West,Office Supplies,Laptop,44394,1246,5,7
+2183,2027-03-28,West,Furniture,Laptop,7369,3220,2,6
+2184,2027-03-29,West,Electronics,Notebook,40937,9671,5,5
+2185,2027-03-30,West,Office Supplies,Pen,44806,405,8,8
+2186,2027-03-31,West,Electronics,Chair,43333,9768,2,5
+2187,2027-04-01,West,Office Supplies,Mobile,21418,78,8,2
+2188,2027-04-02,North,Electronics,Chair,28879,1063,4,6
+2189,2027-04-03,East,Office Supplies,Pen,43439,9069,1,1
+2190,2027-04-04,West,Electronics,Mobile,25774,2074,5,5
+2191,2027-04-05,East,Electronics,Chair,18196,8540,1,6
+2192,2027-04-06,East,Office Supplies,Notebook,3462,5889,7,7
+2193,2027-04-07,North,Electronics,Mobile,14351,5841,8,2
+2194,2027-04-08,West,Electronics,Laptop,46247,804,3,1
+2195,2027-04-09,South,Electronics,Chair,5796,9011,3,6
+2196,2027-04-10,North,Office Supplies,Mobile,15245,3785,7,3
+2197,2027-04-11,South,Office Supplies,Notebook,6230,1288,4,5
+2198,2027-04-12,East,Electronics,Mobile,14421,1956,3,2
+2199,2027-04-13,East,Electronics,Mobile,33394,7449,8,1
+2200,2027-04-14,North,Office Supplies,Notebook,6102,8011,3,1
+2201,2027-04-15,North,Office Supplies,Chair,18075,9806,7,4
+2202,2027-04-16,South,Electronics,Table,19523,9460,2,2
+2203,2027-04-17,West,Electronics,Chair,45849,4651,1,1
+2204,2027-04-18,South,Electronics,Pen,16497,9599,6,6
+2205,2027-04-19,North,Furniture,Notebook,18250,1510,8,4
+2206,2027-04-20,South,Office Supplies,Chair,42479,7719,1,7
+2207,2027-04-21,North,Furniture,Mobile,23337,1466,9,6
+2208,2027-04-22,South,Office Supplies,Notebook,15497,7816,3,5
+2209,2027-04-23,North,Office Supplies,Laptop,39939,1478,3,2
+2210,2027-04-24,North,Office Supplies,Chair,23567,4428,4,5
+2211,2027-04-25,North,Office Supplies,Notebook,45539,7579,1,9
+2212,2027-04-26,West,Office Supplies,Chair,21423,4524,9,9
+2213,2027-04-27,South,Office Supplies,Notebook,9376,3121,3,2
+2214,2027-04-28,South,Office Supplies,Mobile,3387,605,4,7
+2215,2027-04-29,South,Furniture,Laptop,42922,8597,1,4
+2216,2027-04-30,North,Electronics,Laptop,37354,1613,4,3
+2217,2027-05-01,South,Electronics,Pen,37448,1090,1,1
+2218,2027-05-02,South,Furniture,Notebook,3341,2736,5,3
+2219,2027-05-03,North,Furniture,Chair,29256,2603,5,9
+2220,2027-05-04,East,Furniture,Laptop,6540,1829,7,9
+2221,2027-05-05,North,Furniture,Laptop,10804,125,8,7
+2222,2027-05-06,South,Office Supplies,Table,30841,4376,4,3
+2223,2027-05-07,North,Electronics,Table,5258,5885,7,3
+2224,2027-05-08,East,Office Supplies,Laptop,17510,5107,4,4
+2225,2027-05-09,North,Electronics,Notebook,32158,2399,3,7
+2226,2027-05-10,South,Electronics,Pen,49502,2823,6,7
+2227,2027-05-11,East,Furniture,Laptop,38282,2312,4,2
+2228,2027-05-12,West,Office Supplies,Mobile,1875,3279,3,5
+2229,2027-05-13,South,Furniture,Chair,34449,442,9,7
+2230,2027-05-14,East,Office Supplies,Pen,22592,1158,5,7
+2231,2027-05-15,East,Electronics,Mobile,990,4412,7,6
+2232,2027-05-16,West,Furniture,Pen,4229,5238,6,8
+2233,2027-05-17,North,Furniture,Mobile,6474,8852,5,3
+2234,2027-05-18,North,Electronics,Chair,20180,5107,7,1
+2235,2027-05-19,South,Electronics,Chair,18824,4048,6,3
+2236,2027-05-20,West,Electronics,Table,31834,8914,2,2
+2237,2027-05-21,North,Furniture,Notebook,21898,6616,3,2
+2238,2027-05-22,West,Office Supplies,Mobile,35150,3727,2,2
+2239,2027-05-23,North,Furniture,Table,21792,5846,3,5
+2240,2027-05-24,East,Office Supplies,Mobile,36255,6413,1,1
+2241,2027-05-25,North,Furniture,Table,38853,8173,8,4
+2242,2027-05-26,West,Furniture,Chair,3659,8272,6,5
+2243,2027-05-27,East,Electronics,Pen,33126,7740,2,2
+2244,2027-05-28,East,Office Supplies,Table,29851,1450,8,5
+2245,2027-05-29,East,Furniture,Mobile,37798,4121,6,4
+2246,2027-05-30,West,Furniture,Mobile,17565,8858,7,8
+2247,2027-05-31,South,Electronics,Notebook,22138,2836,1,1
+2248,2027-06-01,South,Electronics,Chair,1573,7219,7,5
+2249,2027-06-02,South,Office Supplies,Mobile,47011,920,3,1
+2250,2027-06-03,West,Furniture,Laptop,19271,4246,8,4
+2251,2027-06-04,East,Office Supplies,Pen,35961,9654,6,8
+2252,2027-06-05,South,Furniture,Table,42830,2789,4,1
+2253,2027-06-06,West,Office Supplies,Notebook,29820,990,8,2
+2254,2027-06-07,South,Electronics,Pen,4840,390,9,1
+2255,2027-06-08,North,Furniture,Chair,35424,7472,2,7
+2256,2027-06-09,South,Office Supplies,Notebook,16684,4183,6,2
+2257,2027-06-10,South,Electronics,Table,41234,709,5,1
+2258,2027-06-11,East,Electronics,Table,3080,9802,5,6
+2259,2027-06-12,West,Office Supplies,Laptop,40525,3507,3,6
+2260,2027-06-13,East,Furniture,Chair,29467,9898,8,2
+2261,2027-06-14,East,Furniture,Notebook,2659,3025,8,1
+2262,2027-06-15,East,Electronics,Notebook,49440,9291,5,3
+2263,2027-06-16,East,Furniture,Mobile,14400,503,8,5
+2264,2027-06-17,East,Furniture,Laptop,11940,9946,8,6
+2265,2027-06-18,South,Furniture,Laptop,15178,8234,3,3
+2266,2027-06-19,East,Electronics,Notebook,47704,5492,2,9
+2267,2027-06-20,East,Office Supplies,Notebook,12521,868,9,5
+2268,2027-06-21,West,Furniture,Pen,7272,4918,2,2
+2269,2027-06-22,North,Electronics,Pen,2127,62,9,6
+2270,2027-06-23,South,Electronics,Pen,44932,7777,4,8
+2271,2027-06-24,South,Office Supplies,Laptop,8719,970,2,6
+2272,2027-06-25,South,Furniture,Mobile,23964,4970,1,4
+2273,2027-06-26,East,Furniture,Table,30732,2468,4,6
+2274,2027-06-27,East,Office Supplies,Pen,42981,9556,9,8
+2275,2027-06-28,East,Office Supplies,Mobile,8988,6525,9,8
+2276,2027-06-29,West,Electronics,Chair,35449,2067,4,2
+2277,2027-06-30,North,Electronics,Pen,44862,8007,9,8
+2278,2027-07-01,East,Office Supplies,Table,40432,9470,6,6
+2279,2027-07-02,North,Furniture,Chair,19481,4842,1,2
+2280,2027-07-03,West,Electronics,Chair,1401,6880,6,1
+2281,2027-07-04,South,Electronics,Table,22944,2484,9,6
+2282,2027-07-05,East,Furniture,Pen,42558,2918,2,7
+2283,2027-07-06,North,Electronics,Laptop,18561,1488,6,5
+2284,2027-07-07,North,Furniture,Table,3381,3593,2,8
+2285,2027-07-08,East,Furniture,Table,30363,1831,4,9
+2286,2027-07-09,South,Furniture,Table,46326,6393,8,4
+2287,2027-07-10,South,Office Supplies,Chair,6122,2313,7,7
+2288,2027-07-11,South,Office Supplies,Mobile,1878,261,9,8
+2289,2027-07-12,West,Office Supplies,Laptop,18132,8749,7,6
+2290,2027-07-13,North,Furniture,Pen,28811,6209,1,2
+2291,2027-07-14,North,Furniture,Pen,6150,7077,2,7
+2292,2027-07-15,North,Office Supplies,Mobile,45701,381,6,9
+2293,2027-07-16,West,Electronics,Table,42724,6910,7,5
+2294,2027-07-17,North,Furniture,Laptop,7536,8094,3,2
+2295,2027-07-18,West,Electronics,Pen,39755,8219,9,4
+2296,2027-07-19,South,Electronics,Notebook,22999,8792,7,3
+2297,2027-07-20,East,Furniture,Pen,37516,5770,6,4
+2298,2027-07-21,North,Furniture,Table,5103,9183,6,7
+2299,2027-07-22,North,Electronics,Notebook,28273,777,1,8
+2300,2027-07-23,South,Electronics,Mobile,20437,5025,5,1
+2301,2027-07-24,East,Office Supplies,Laptop,13132,3293,3,8
+2302,2027-07-25,West,Office Supplies,Mobile,31107,698,7,5
+2303,2027-07-26,East,Furniture,Mobile,26837,5145,3,7
+2304,2027-07-27,South,Office Supplies,Laptop,720,6664,5,1
+2305,2027-07-28,South,Office Supplies,Laptop,47494,7185,7,2
+2306,2027-07-29,East,Office Supplies,Pen,5318,1059,3,1
+2307,2027-07-30,West,Office Supplies,Pen,7849,1600,2,5
+2308,2027-07-31,West,Electronics,Laptop,6118,9045,6,6
+2309,2027-08-01,North,Furniture,Notebook,27964,7542,8,9
+2310,2027-08-02,West,Office Supplies,Chair,43124,3451,4,8
+2311,2027-08-03,East,Electronics,Pen,37844,7497,9,7
+2312,2027-08-04,South,Electronics,Chair,18755,5474,8,5
+2313,2027-08-05,North,Electronics,Notebook,24799,4291,7,3
+2314,2027-08-06,North,Office Supplies,Laptop,48475,3211,7,9
+2315,2027-08-07,South,Office Supplies,Notebook,1962,4205,3,5
+2316,2027-08-08,West,Furniture,Pen,16405,7528,6,3
+2317,2027-08-09,South,Office Supplies,Mobile,25420,8769,5,3
+2318,2027-08-10,West,Office Supplies,Laptop,16752,9265,1,3
+2319,2027-08-11,South,Electronics,Table,41504,6667,3,6
+2320,2027-08-12,East,Furniture,Chair,41081,5710,1,1
+2321,2027-08-13,West,Office Supplies,Notebook,35336,8674,4,4
+2322,2027-08-14,East,Office Supplies,Laptop,6253,1226,3,8
+2323,2027-08-15,North,Electronics,Notebook,40505,8006,4,3
+2324,2027-08-16,South,Electronics,Laptop,14675,8642,9,5
+2325,2027-08-17,North,Office Supplies,Pen,6691,2283,3,2
+2326,2027-08-18,North,Furniture,Pen,18398,4750,6,2
+2327,2027-08-19,North,Furniture,Pen,19482,5956,6,7
+2328,2027-08-20,North,Electronics,Notebook,15122,7910,7,3
+2329,2027-08-21,South,Electronics,Table,1501,7576,9,5
+2330,2027-08-22,North,Office Supplies,Pen,48145,5609,7,3
+2331,2027-08-23,South,Electronics,Laptop,43500,6782,1,6
+2332,2027-08-24,South,Office Supplies,Pen,23783,2563,8,3
+2333,2027-08-25,East,Furniture,Mobile,21935,7880,5,8
+2334,2027-08-26,West,Furniture,Pen,27723,6994,9,2
+2335,2027-08-27,West,Office Supplies,Notebook,37744,7960,5,3
+2336,2027-08-28,South,Electronics,Table,30524,5699,5,8
+2337,2027-08-29,East,Furniture,Mobile,31234,1146,2,8
+2338,2027-08-30,South,Electronics,Notebook,1015,9170,3,1
+2339,2027-08-31,South,Furniture,Notebook,45746,2001,9,8
+2340,2027-09-01,South,Office Supplies,Notebook,1691,9796,7,2
+2341,2027-09-02,East,Office Supplies,Laptop,32764,9236,1,7
+2342,2027-09-03,West,Office Supplies,Notebook,44128,7849,3,6
+2343,2027-09-04,East,Furniture,Laptop,46716,8854,2,2
+2344,2027-09-05,North,Electronics,Notebook,6797,645,1,5
+2345,2027-09-06,East,Electronics,Chair,28356,7925,9,7
+2346,2027-09-07,East,Electronics,Mobile,49923,9083,8,8
+2347,2027-09-08,East,Furniture,Chair,8834,4489,5,3
+2348,2027-09-09,East,Furniture,Notebook,24662,6022,2,1
+2349,2027-09-10,West,Furniture,Mobile,6508,908,1,7
+2350,2027-09-11,North,Furniture,Mobile,8487,5569,7,5
+2351,2027-09-12,West,Furniture,Table,31466,7435,2,5
+2352,2027-09-13,West,Electronics,Chair,3832,8686,1,7
+2353,2027-09-14,East,Furniture,Table,1287,4367,2,1
+2354,2027-09-15,South,Furniture,Mobile,39490,3504,7,8
+2355,2027-09-16,South,Electronics,Laptop,10373,1080,7,5
+2356,2027-09-17,West,Furniture,Mobile,17506,9537,6,8
+2357,2027-09-18,West,Electronics,Table,20725,7956,5,5
+2358,2027-09-19,East,Electronics,Chair,36944,1497,3,7
+2359,2027-09-20,West,Office Supplies,Notebook,35840,2900,3,3
+2360,2027-09-21,East,Office Supplies,Notebook,40183,8156,9,2
+2361,2027-09-22,South,Office Supplies,Chair,5533,7201,4,6
+2362,2027-09-23,South,Office Supplies,Notebook,8288,9553,9,5
+2363,2027-09-24,North,Furniture,Notebook,16189,7002,4,9
+2364,2027-09-25,South,Office Supplies,Table,44720,4105,2,4
+2365,2027-09-26,West,Electronics,Chair,22098,5452,4,3
+2366,2027-09-27,South,Furniture,Pen,37980,9331,6,9
+2367,2027-09-28,East,Office Supplies,Laptop,30203,1722,6,8
+2368,2027-09-29,South,Electronics,Laptop,566,4582,5,6
+2369,2027-09-30,North,Furniture,Notebook,49123,4974,1,1
+2370,2027-10-01,South,Furniture,Laptop,45746,6135,3,1
+2371,2027-10-02,East,Office Supplies,Chair,8033,7784,5,6
+2372,2027-10-03,East,Furniture,Chair,15603,4914,6,3
+2373,2027-10-04,West,Electronics,Mobile,5116,9366,1,3
+2374,2027-10-05,South,Furniture,Mobile,46545,1271,9,6
+2375,2027-10-06,East,Electronics,Laptop,38998,2910,3,3
+2376,2027-10-07,North,Furniture,Pen,43992,8478,3,6
+2377,2027-10-08,West,Office Supplies,Mobile,12272,9386,2,5
+2378,2027-10-09,North,Electronics,Mobile,24349,3303,8,4
+2379,2027-10-10,South,Furniture,Chair,49536,3832,3,8
+2380,2027-10-11,South,Furniture,Pen,13440,7007,6,2
+2381,2027-10-12,South,Furniture,Notebook,17432,816,2,7
+2382,2027-10-13,West,Electronics,Laptop,30269,2731,7,4
+2383,2027-10-14,East,Electronics,Mobile,25148,7760,4,2
+2384,2027-10-15,West,Electronics,Pen,47911,7532,9,7
+2385,2027-10-16,North,Office Supplies,Pen,33466,5136,9,1
+2386,2027-10-17,West,Office Supplies,Laptop,28277,8014,7,4
+2387,2027-10-18,North,Electronics,Pen,33067,2715,8,9
+2388,2027-10-19,West,Furniture,Pen,17674,3563,3,4
+2389,2027-10-20,East,Office Supplies,Pen,43098,545,5,3
+2390,2027-10-21,North,Electronics,Mobile,14298,5872,2,2
+2391,2027-10-22,South,Furniture,Laptop,18058,2122,7,3
+2392,2027-10-23,South,Office Supplies,Pen,44737,7845,8,1
+2393,2027-10-24,West,Furniture,Pen,678,8579,9,8
+2394,2027-10-25,South,Furniture,Mobile,20970,3999,7,1
+2395,2027-10-26,North,Furniture,Laptop,17618,6083,8,3
+2396,2027-10-27,South,Furniture,Chair,23116,8378,9,3
+2397,2027-10-28,East,Office Supplies,Mobile,1298,2605,6,2
+2398,2027-10-29,East,Office Supplies,Laptop,8101,6420,2,5
+2399,2027-10-30,West,Office Supplies,Pen,25863,4465,2,3
+2400,2027-10-31,North,Electronics,Laptop,3295,6009,4,3
+2401,2027-11-01,East,Office Supplies,Laptop,32426,9157,9,8
+2402,2027-11-02,East,Furniture,Notebook,45764,6043,7,4
+2403,2027-11-03,North,Office Supplies,Laptop,37856,5071,2,4
+2404,2027-11-04,South,Furniture,Chair,7797,2957,8,3
+2405,2027-11-05,South,Electronics,Laptop,3584,2964,7,1
+2406,2027-11-06,West,Furniture,Chair,30829,3920,9,8
+2407,2027-11-07,South,Furniture,Pen,11610,9240,8,1
+2408,2027-11-08,North,Furniture,Chair,1231,5135,3,7
+2409,2027-11-09,East,Electronics,Pen,1629,6596,1,5
+2410,2027-11-10,South,Office Supplies,Pen,28522,445,2,4
+2411,2027-11-11,West,Office Supplies,Chair,2105,988,2,4
+2412,2027-11-12,South,Electronics,Mobile,12470,9878,4,8
+2413,2027-11-13,North,Furniture,Table,44205,2560,6,6
+2414,2027-11-14,West,Office Supplies,Laptop,44630,4686,4,1
+2415,2027-11-15,South,Electronics,Notebook,29765,1699,9,8
+2416,2027-11-16,West,Office Supplies,Table,32830,3740,4,2
+2417,2027-11-17,North,Electronics,Laptop,3433,3485,6,6
+2418,2027-11-18,East,Furniture,Laptop,15687,3251,6,9
+2419,2027-11-19,North,Office Supplies,Pen,26291,4229,1,1
+2420,2027-11-20,North,Electronics,Laptop,25400,8455,8,6
+2421,2027-11-21,North,Office Supplies,Notebook,5574,3287,3,8
+2422,2027-11-22,North,Office Supplies,Laptop,47305,3912,6,2
+2423,2027-11-23,East,Office Supplies,Chair,26926,108,3,5
+2424,2027-11-24,East,Office Supplies,Table,40367,4988,2,6
+2425,2027-11-25,West,Electronics,Chair,1393,3021,5,5
+2426,2027-11-26,South,Furniture,Notebook,34658,9769,1,3
+2427,2027-11-27,East,Electronics,Laptop,20273,8364,9,4
+2428,2027-11-28,East,Electronics,Notebook,4739,9678,7,7
+2429,2027-11-29,South,Electronics,Pen,21363,9404,3,4
+2430,2027-11-30,East,Furniture,Chair,3932,3395,4,9
+2431,2027-12-01,North,Office Supplies,Chair,35639,2536,6,2
+2432,2027-12-02,North,Office Supplies,Mobile,2015,611,3,5
+2433,2027-12-03,South,Office Supplies,Laptop,32170,4031,7,8
+2434,2027-12-04,West,Furniture,Pen,49174,6311,6,5
+2435,2027-12-05,West,Office Supplies,Chair,39594,1787,9,8
+2436,2027-12-06,South,Furniture,Chair,15105,9146,5,8
+2437,2027-12-07,South,Office Supplies,Pen,6086,3604,4,9
+2438,2027-12-08,North,Office Supplies,Notebook,36185,9968,3,6
+2439,2027-12-09,West,Electronics,Notebook,49169,9176,1,4
+2440,2027-12-10,East,Furniture,Laptop,31686,7145,3,3
+2441,2027-12-11,North,Electronics,Mobile,27428,8316,3,5
+2442,2027-12-12,South,Electronics,Chair,33228,344,7,6
+2443,2027-12-13,West,Electronics,Mobile,18051,8262,7,3
+2444,2027-12-14,East,Furniture,Notebook,21993,9280,1,2
+2445,2027-12-15,East,Furniture,Notebook,21211,5380,3,7
+2446,2027-12-16,North,Office Supplies,Table,20539,4705,8,5
+2447,2027-12-17,West,Electronics,Laptop,37061,1159,9,9
+2448,2027-12-18,West,Office Supplies,Table,10447,3821,7,3
+2449,2027-12-19,South,Electronics,Table,32835,8613,7,8
+2450,2027-12-20,West,Furniture,Table,16359,6173,8,6
+2451,2027-12-21,West,Furniture,Laptop,23622,7697,6,4
+2452,2027-12-22,North,Furniture,Laptop,2077,1224,3,9
+2453,2027-12-23,West,Electronics,Pen,42756,1214,1,5
+2454,2027-12-24,East,Furniture,Mobile,28850,9334,7,6
+2455,2027-12-25,North,Electronics,Mobile,42432,9525,1,9
+2456,2027-12-26,North,Office Supplies,Pen,34298,9087,1,7
+2457,2027-12-27,South,Electronics,Pen,32398,8762,9,5
+2458,2027-12-28,West,Office Supplies,Notebook,16381,4516,7,2
+2459,2027-12-29,South,Electronics,Table,11285,5588,4,4
+2460,2027-12-30,East,Office Supplies,Pen,7191,7161,6,2
+2461,2027-12-31,North,Furniture,Chair,17797,8484,1,3
+2462,2028-01-01,North,Office Supplies,Mobile,6858,2850,7,3
+2463,2028-01-02,North,Furniture,Pen,20081,4657,6,4
+2464,2028-01-03,East,Furniture,Chair,1962,7312,4,6
+2465,2028-01-04,East,Office Supplies,Chair,16011,1591,7,3
+2466,2028-01-05,South,Electronics,Chair,11070,2815,3,1
+2467,2028-01-06,South,Electronics,Notebook,49165,4541,1,1
+2468,2028-01-07,South,Electronics,Notebook,44914,3133,4,9
+2469,2028-01-08,West,Electronics,Chair,15974,5406,3,9
+2470,2028-01-09,North,Electronics,Notebook,7537,1907,1,5
+2471,2028-01-10,North,Furniture,Table,28629,819,2,9
+2472,2028-01-11,South,Electronics,Chair,42767,1472,5,7
+2473,2028-01-12,North,Furniture,Table,13886,8648,8,9
+2474,2028-01-13,South,Furniture,Table,6721,3022,1,7
+2475,2028-01-14,West,Furniture,Chair,23974,1922,4,9
+2476,2028-01-15,West,Office Supplies,Mobile,41037,5649,4,2
+2477,2028-01-16,East,Office Supplies,Chair,47624,2319,5,8
+2478,2028-01-17,West,Furniture,Chair,21545,5325,7,7
+2479,2028-01-18,South,Office Supplies,Notebook,26283,4799,8,6
+2480,2028-01-19,West,Electronics,Chair,40657,6621,6,5
+2481,2028-01-20,East,Electronics,Mobile,5422,9423,1,4
+2482,2028-01-21,North,Furniture,Notebook,46907,5122,7,7
+2483,2028-01-22,South,Electronics,Laptop,23206,9681,3,3
+2484,2028-01-23,North,Furniture,Laptop,43271,5513,6,8
+2485,2028-01-24,East,Furniture,Table,32979,7500,8,2
+2486,2028-01-25,East,Electronics,Table,5678,8470,7,1
+2487,2028-01-26,East,Office Supplies,Mobile,30522,4009,6,2
+2488,2028-01-27,North,Electronics,Pen,15740,1363,9,9
+2489,2028-01-28,North,Electronics,Laptop,26720,7897,9,5
+2490,2028-01-29,North,Furniture,Table,37236,1120,1,8
+2491,2028-01-30,North,Furniture,Laptop,3216,9216,1,3
+2492,2028-01-31,East,Furniture,Mobile,17074,9980,1,7
+2493,2028-02-01,East,Furniture,Mobile,46779,3335,8,2
+2494,2028-02-02,South,Office Supplies,Pen,18219,8999,7,8
+2495,2028-02-03,South,Office Supplies,Pen,8681,3145,3,7
+2496,2028-02-04,North,Office Supplies,Notebook,46263,370,2,5
+2497,2028-02-05,West,Furniture,Mobile,44566,2371,4,4
+2498,2028-02-06,West,Furniture,Table,20713,605,3,1
+2499,2028-02-07,East,Furniture,Laptop,6880,4989,7,5
+2500,2028-02-08,East,Office Supplies,Chair,1115,5482,8,9
+2501,2028-02-09,East,Furniture,Pen,963,1436,6,4
+2502,2028-02-10,South,Electronics,Chair,32473,4813,3,9
+2503,2028-02-11,South,Electronics,Table,9658,6904,6,2
+2504,2028-02-12,East,Furniture,Pen,21151,7687,2,4
+2505,2028-02-13,East,Electronics,Chair,3658,4891,7,9
+2506,2028-02-14,East,Electronics,Table,20508,3917,7,4
+2507,2028-02-15,West,Office Supplies,Laptop,46702,3843,4,5
+2508,2028-02-16,South,Furniture,Table,5438,7423,8,8
+2509,2028-02-17,West,Furniture,Notebook,38685,2563,4,1
+2510,2028-02-18,West,Office Supplies,Pen,22888,3853,7,1
+2511,2028-02-19,East,Electronics,Mobile,9381,2377,4,9
+2512,2028-02-20,East,Electronics,Laptop,6103,8859,5,9
+2513,2028-02-21,North,Furniture,Chair,35480,2215,7,4
+2514,2028-02-22,North,Electronics,Pen,23004,3358,3,2
+2515,2028-02-23,West,Office Supplies,Mobile,17266,6502,5,9
+2516,2028-02-24,South,Office Supplies,Table,28886,8117,3,4
+2517,2028-02-25,East,Furniture,Mobile,12195,7692,5,6
+2518,2028-02-26,East,Office Supplies,Pen,18296,6454,3,1
+2519,2028-02-27,West,Office Supplies,Pen,43043,1042,7,9
+2520,2028-02-28,North,Furniture,Notebook,15059,5474,1,5
+2521,2028-02-29,South,Office Supplies,Notebook,39414,9619,9,3
+2522,2028-03-01,North,Office Supplies,Mobile,33639,4431,9,4
+2523,2028-03-02,North,Office Supplies,Table,38833,3224,5,1
+2524,2028-03-03,North,Electronics,Mobile,9302,4832,9,9
+2525,2028-03-04,North,Furniture,Pen,8807,9547,6,8
+2526,2028-03-05,East,Furniture,Pen,40705,5610,5,4
+2527,2028-03-06,East,Furniture,Chair,33714,7510,3,2
+2528,2028-03-07,North,Electronics,Notebook,34659,3128,8,9
+2529,2028-03-08,South,Electronics,Chair,12016,3033,4,4
+2530,2028-03-09,West,Furniture,Laptop,29586,7309,3,9
+2531,2028-03-10,South,Electronics,Pen,48722,6104,6,3
+2532,2028-03-11,South,Furniture,Chair,30980,2573,8,7
+2533,2028-03-12,South,Electronics,Mobile,45159,9727,9,7
+2534,2028-03-13,North,Office Supplies,Notebook,48266,4631,6,4
+2535,2028-03-14,East,Office Supplies,Notebook,39237,5659,5,2
+2536,2028-03-15,South,Furniture,Table,9765,2051,2,9
+2537,2028-03-16,North,Electronics,Mobile,49129,1437,2,4
+2538,2028-03-17,South,Electronics,Table,5954,6602,9,8
+2539,2028-03-18,South,Office Supplies,Chair,36418,1080,2,2
+2540,2028-03-19,North,Office Supplies,Laptop,26681,1270,2,8
+2541,2028-03-20,East,Electronics,Mobile,15886,6085,3,5
+2542,2028-03-21,East,Electronics,Mobile,39682,9860,3,7
+2543,2028-03-22,West,Electronics,Mobile,37925,9505,4,7
+2544,2028-03-23,North,Electronics,Table,43754,6573,7,9
+2545,2028-03-24,West,Electronics,Chair,24827,8124,9,3
+2546,2028-03-25,West,Electronics,Mobile,21681,9113,2,4
+2547,2028-03-26,West,Furniture,Mobile,48162,884,4,4
+2548,2028-03-27,East,Electronics,Notebook,21952,9160,9,5
+2549,2028-03-28,North,Office Supplies,Laptop,38748,1774,2,6
+2550,2028-03-29,West,Furniture,Notebook,41301,6648,1,3
+2551,2028-03-30,North,Electronics,Notebook,34251,2463,8,4
+2552,2028-03-31,North,Office Supplies,Laptop,22491,9555,9,3
+2553,2028-04-01,East,Furniture,Chair,41811,6043,7,2
+2554,2028-04-02,West,Office Supplies,Notebook,10416,4548,8,9
+2555,2028-04-03,West,Electronics,Chair,10643,2155,4,1
+2556,2028-04-04,North,Electronics,Notebook,26355,2618,4,2
+2557,2028-04-05,South,Electronics,Pen,16081,9380,2,8
+2558,2028-04-06,East,Electronics,Laptop,2407,259,8,7
+2559,2028-04-07,East,Furniture,Notebook,29924,9306,2,1
+2560,2028-04-08,East,Furniture,Pen,23808,4961,9,5
+2561,2028-04-09,East,Office Supplies,Table,42484,2270,4,6
+2562,2028-04-10,West,Electronics,Pen,42005,283,1,5
+2563,2028-04-11,West,Office Supplies,Mobile,47025,842,4,4
+2564,2028-04-12,South,Furniture,Notebook,37442,3160,3,1
+2565,2028-04-13,East,Electronics,Pen,27457,2216,6,7
+2566,2028-04-14,East,Electronics,Chair,25964,8576,7,9
+2567,2028-04-15,North,Furniture,Table,48976,9601,8,6
+2568,2028-04-16,West,Furniture,Notebook,24149,5243,2,3
+2569,2028-04-17,East,Furniture,Mobile,42565,1264,6,4
+2570,2028-04-18,South,Furniture,Pen,27625,4469,6,5
+2571,2028-04-19,South,Furniture,Table,35258,7364,5,1
+2572,2028-04-20,West,Electronics,Notebook,6096,8525,7,5
+2573,2028-04-21,South,Furniture,Table,16874,262,3,1
+2574,2028-04-22,South,Electronics,Mobile,4275,1708,4,9
+2575,2028-04-23,West,Electronics,Pen,27888,5074,9,7
+2576,2028-04-24,East,Furniture,Table,21529,9659,4,3
+2577,2028-04-25,East,Furniture,Table,18945,5967,3,9
+2578,2028-04-26,South,Electronics,Laptop,48974,5191,2,2
+2579,2028-04-27,South,Furniture,Table,15145,1844,5,7
+2580,2028-04-28,East,Furniture,Laptop,31605,6038,4,9
+2581,2028-04-29,West,Furniture,Pen,14168,8346,8,6
+2582,2028-04-30,South,Office Supplies,Notebook,16460,5628,7,5
+2583,2028-05-01,North,Electronics,Notebook,11857,5601,6,7
+2584,2028-05-02,West,Office Supplies,Pen,37703,3895,2,6
+2585,2028-05-03,South,Furniture,Pen,16304,6956,3,5
+2586,2028-05-04,South,Office Supplies,Chair,15126,428,9,2
+2587,2028-05-05,North,Furniture,Pen,28632,3343,9,8
+2588,2028-05-06,North,Office Supplies,Table,8451,3379,5,7
+2589,2028-05-07,East,Furniture,Notebook,6949,4858,3,6
+2590,2028-05-08,West,Office Supplies,Mobile,19565,7987,2,5
+2591,2028-05-09,West,Office Supplies,Notebook,36467,274,8,5
+2592,2028-05-10,East,Office Supplies,Laptop,40036,787,6,9
+2593,2028-05-11,West,Electronics,Notebook,9630,285,7,1
+2594,2028-05-12,West,Office Supplies,Chair,24324,761,1,9
+2595,2028-05-13,West,Electronics,Pen,41901,6038,1,6
+2596,2028-05-14,West,Furniture,Pen,37493,1938,2,4
+2597,2028-05-15,West,Office Supplies,Notebook,32375,7223,3,7
+2598,2028-05-16,North,Furniture,Mobile,6554,1309,1,9
+2599,2028-05-17,West,Furniture,Mobile,34773,5296,5,5
+2600,2028-05-18,North,Office Supplies,Chair,42321,7321,3,5
+2601,2028-05-19,West,Electronics,Laptop,49017,798,1,8
+2602,2028-05-20,East,Office Supplies,Notebook,11332,3601,8,7
+2603,2028-05-21,South,Furniture,Pen,30170,6450,6,8
+2604,2028-05-22,North,Furniture,Notebook,49612,6693,9,2
+2605,2028-05-23,West,Office Supplies,Chair,23352,8751,3,9
+2606,2028-05-24,East,Electronics,Table,24120,1873,9,3
+2607,2028-05-25,South,Electronics,Table,28807,6902,9,6
+2608,2028-05-26,North,Furniture,Chair,48051,7827,1,6
+2609,2028-05-27,South,Furniture,Pen,2051,4282,3,2
+2610,2028-05-28,East,Electronics,Chair,48422,6569,6,7
+2611,2028-05-29,North,Office Supplies,Pen,28312,1827,8,9
+2612,2028-05-30,South,Furniture,Mobile,14299,1272,4,1
+2613,2028-05-31,West,Electronics,Chair,26812,7680,5,8
+2614,2028-06-01,North,Furniture,Pen,40120,1827,9,2
+2615,2028-06-02,South,Office Supplies,Chair,1949,9546,6,1
+2616,2028-06-03,East,Electronics,Chair,24926,7540,7,8
+2617,2028-06-04,East,Furniture,Pen,35927,4909,7,2
+2618,2028-06-05,North,Office Supplies,Pen,40777,8943,4,6
+2619,2028-06-06,South,Furniture,Laptop,32051,8168,4,6
+2620,2028-06-07,North,Office Supplies,Chair,24777,3039,4,5
+2621,2028-06-08,North,Office Supplies,Table,35989,8393,5,8
+2622,2028-06-09,South,Electronics,Chair,45712,1375,5,3
+2623,2028-06-10,South,Office Supplies,Chair,10137,9543,8,4
+2624,2028-06-11,West,Furniture,Pen,43758,9953,9,7
+2625,2028-06-12,South,Office Supplies,Chair,36193,5177,2,7
+2626,2028-06-13,East,Office Supplies,Notebook,10324,9048,7,8
+2627,2028-06-14,North,Electronics,Chair,27450,2772,1,2
+2628,2028-06-15,North,Office Supplies,Notebook,23988,4706,1,2
+2629,2028-06-16,East,Office Supplies,Table,39508,1375,4,4
+2630,2028-06-17,South,Furniture,Pen,715,4183,7,9
+2631,2028-06-18,East,Electronics,Chair,40567,9401,2,9
+2632,2028-06-19,East,Electronics,Notebook,12023,2919,2,4
+2633,2028-06-20,West,Electronics,Notebook,10864,1292,1,9
+2634,2028-06-21,East,Office Supplies,Notebook,3653,8589,2,3
+2635,2028-06-22,North,Electronics,Mobile,24334,1881,7,5
+2636,2028-06-23,East,Office Supplies,Laptop,34974,1619,9,9
+2637,2028-06-24,North,Office Supplies,Table,43566,7296,6,6
+2638,2028-06-25,North,Furniture,Chair,34835,1968,2,3
+2639,2028-06-26,North,Furniture,Mobile,10900,6466,9,9
+2640,2028-06-27,South,Furniture,Chair,10845,3282,7,6
+2641,2028-06-28,West,Furniture,Chair,34396,3808,1,4
+2642,2028-06-29,North,Furniture,Pen,20394,6047,9,4
+2643,2028-06-30,North,Office Supplies,Pen,29399,2405,2,8
+2644,2028-07-01,South,Office Supplies,Pen,41135,9639,4,7
+2645,2028-07-02,North,Electronics,Mobile,28729,1874,9,1
+2646,2028-07-03,East,Office Supplies,Chair,6083,7330,4,6
+2647,2028-07-04,East,Office Supplies,Laptop,5397,4110,3,8
+2648,2028-07-05,West,Furniture,Table,6501,5374,1,3
+2649,2028-07-06,North,Office Supplies,Pen,44381,454,7,9
+2650,2028-07-07,South,Furniture,Pen,5067,1771,6,2
+2651,2028-07-08,East,Electronics,Chair,9771,5366,4,6
+2652,2028-07-09,South,Electronics,Chair,47616,3895,6,1
+2653,2028-07-10,South,Office Supplies,Mobile,12203,4260,6,2
+2654,2028-07-11,East,Electronics,Mobile,13829,114,4,5
+2655,2028-07-12,South,Office Supplies,Pen,36009,9541,6,1
+2656,2028-07-13,East,Electronics,Chair,6756,6432,8,8
+2657,2028-07-14,South,Furniture,Laptop,728,9657,3,1
+2658,2028-07-15,East,Furniture,Table,25246,1018,4,9
+2659,2028-07-16,North,Furniture,Chair,17178,418,1,3
+2660,2028-07-17,West,Furniture,Chair,37552,8474,4,2
+2661,2028-07-18,East,Office Supplies,Notebook,46532,2292,9,1
+2662,2028-07-19,East,Electronics,Mobile,46658,5052,8,9
+2663,2028-07-20,West,Office Supplies,Table,23685,3133,4,4
+2664,2028-07-21,East,Furniture,Pen,34186,8123,7,1
+2665,2028-07-22,East,Office Supplies,Chair,11945,9162,3,1
+2666,2028-07-23,South,Electronics,Pen,33766,8930,9,7
+2667,2028-07-24,West,Office Supplies,Chair,3309,1519,4,2
+2668,2028-07-25,North,Electronics,Pen,38229,4775,2,7
+2669,2028-07-26,East,Office Supplies,Table,42285,4309,5,7
+2670,2028-07-27,West,Electronics,Mobile,37047,3672,2,9
+2671,2028-07-28,South,Electronics,Table,43318,873,6,7
+2672,2028-07-29,North,Furniture,Notebook,35386,3481,1,1
+2673,2028-07-30,West,Electronics,Laptop,6891,6578,6,8
+2674,2028-07-31,North,Furniture,Mobile,645,4201,4,8
+2675,2028-08-01,North,Furniture,Table,14429,4263,3,4
+2676,2028-08-02,North,Furniture,Notebook,24826,7470,2,8
+2677,2028-08-03,East,Office Supplies,Laptop,30491,9039,7,4
+2678,2028-08-04,East,Office Supplies,Notebook,48185,829,9,8
+2679,2028-08-05,South,Office Supplies,Chair,37833,2942,3,5
+2680,2028-08-06,South,Office Supplies,Chair,17076,5584,6,4
+2681,2028-08-07,West,Electronics,Pen,39905,3356,9,6
+2682,2028-08-08,South,Electronics,Mobile,28964,2952,2,2
+2683,2028-08-09,North,Office Supplies,Chair,8743,3768,7,2
+2684,2028-08-10,North,Electronics,Notebook,32101,71,5,2
+2685,2028-08-11,East,Electronics,Mobile,2910,1550,5,9
+2686,2028-08-12,North,Furniture,Chair,2320,9084,7,3
+2687,2028-08-13,West,Furniture,Pen,35789,3691,9,4
+2688,2028-08-14,North,Furniture,Table,39150,5262,4,8
+2689,2028-08-15,North,Furniture,Pen,35135,241,9,4
+2690,2028-08-16,West,Electronics,Laptop,7965,8637,9,7
+2691,2028-08-17,South,Office Supplies,Chair,32939,7224,4,5
+2692,2028-08-18,South,Electronics,Laptop,27814,5164,3,9
+2693,2028-08-19,West,Electronics,Laptop,44729,4712,2,4
+2694,2028-08-20,East,Electronics,Notebook,20083,4376,9,3
+2695,2028-08-21,North,Furniture,Mobile,27655,9115,2,2
+2696,2028-08-22,West,Furniture,Notebook,39371,4385,6,1
+2697,2028-08-23,North,Furniture,Chair,12697,8331,5,6
+2698,2028-08-24,East,Office Supplies,Laptop,30011,8698,5,2
+2699,2028-08-25,North,Electronics,Table,15924,9246,4,8
+2700,2028-08-26,West,Office Supplies,Laptop,49321,5544,6,6
+2701,2028-08-27,North,Furniture,Table,740,8586,5,5
+2702,2028-08-28,South,Office Supplies,Notebook,5131,2761,4,2
+2703,2028-08-29,East,Electronics,Notebook,10099,7645,9,7
+2704,2028-08-30,East,Electronics,Mobile,44962,6323,6,2
+2705,2028-08-31,East,Furniture,Laptop,25158,6334,3,5
+2706,2028-09-01,West,Furniture,Pen,38345,9358,6,2
+2707,2028-09-02,East,Office Supplies,Notebook,33074,8867,1,2
+2708,2028-09-03,South,Furniture,Notebook,37036,4044,5,7
+2709,2028-09-04,West,Furniture,Mobile,42410,1728,6,9
+2710,2028-09-05,South,Electronics,Table,8495,8464,8,5
+2711,2028-09-06,North,Furniture,Mobile,25686,793,9,7
+2712,2028-09-07,North,Furniture,Laptop,29745,512,3,4
+2713,2028-09-08,North,Electronics,Chair,23313,1618,2,2
+2714,2028-09-09,North,Electronics,Chair,13776,1786,4,3
+2715,2028-09-10,South,Office Supplies,Table,20489,7953,8,2
+2716,2028-09-11,West,Furniture,Notebook,13246,7052,8,5
+2717,2028-09-12,West,Electronics,Table,44743,8906,3,6
+2718,2028-09-13,East,Office Supplies,Notebook,19057,1406,4,7
+2719,2028-09-14,South,Office Supplies,Notebook,28560,1064,3,3
+2720,2028-09-15,North,Furniture,Chair,7068,1104,2,4
+2721,2028-09-16,South,Furniture,Table,35869,1814,4,8
+2722,2028-09-17,East,Office Supplies,Mobile,19541,6059,6,4
+2723,2028-09-18,East,Electronics,Notebook,6580,4508,5,7
+2724,2028-09-19,South,Office Supplies,Pen,14354,9654,3,6
+2725,2028-09-20,South,Furniture,Pen,2659,717,2,7
+2726,2028-09-21,South,Electronics,Mobile,27525,3420,9,1
+2727,2028-09-22,West,Electronics,Pen,41581,6026,1,3
+2728,2028-09-23,North,Office Supplies,Laptop,4868,1444,9,6
+2729,2028-09-24,South,Furniture,Notebook,34585,8340,1,3
+2730,2028-09-25,South,Office Supplies,Mobile,27594,4120,7,7
+2731,2028-09-26,South,Office Supplies,Table,46540,7032,6,9
+2732,2028-09-27,East,Office Supplies,Notebook,1730,8663,7,3
+2733,2028-09-28,East,Electronics,Mobile,18017,5649,3,1
+2734,2028-09-29,West,Electronics,Chair,24491,3700,3,6
+2735,2028-09-30,North,Furniture,Table,1801,9374,1,1
+2736,2028-10-01,West,Furniture,Chair,29110,9944,4,1
+2737,2028-10-02,North,Office Supplies,Notebook,16427,3670,2,8
+2738,2028-10-03,East,Office Supplies,Table,35178,3240,8,9
+2739,2028-10-04,East,Office Supplies,Pen,24966,8839,3,2
+2740,2028-10-05,East,Furniture,Mobile,15404,441,7,9
+2741,2028-10-06,West,Electronics,Notebook,41375,1125,7,5
+2742,2028-10-07,South,Electronics,Laptop,26581,2700,9,8
+2743,2028-10-08,South,Office Supplies,Table,24854,2434,6,7
+2744,2028-10-09,East,Office Supplies,Table,28261,859,1,7
+2745,2028-10-10,South,Office Supplies,Notebook,18800,8097,8,4
+2746,2028-10-11,South,Office Supplies,Notebook,29991,5551,1,2
+2747,2028-10-12,West,Furniture,Chair,36025,6945,3,5
+2748,2028-10-13,North,Electronics,Pen,27032,1209,5,3
+2749,2028-10-14,East,Office Supplies,Chair,6964,7624,8,9
+2750,2028-10-15,East,Furniture,Chair,17062,1581,9,6
+2751,2028-10-16,West,Office Supplies,Pen,42356,5531,7,1
+2752,2028-10-17,West,Office Supplies,Laptop,48392,7598,9,3
+2753,2028-10-18,South,Electronics,Chair,47528,5026,3,4
+2754,2028-10-19,East,Office Supplies,Chair,43011,5745,5,9
+2755,2028-10-20,North,Electronics,Table,9183,8495,8,6
+2756,2028-10-21,West,Electronics,Pen,33134,3598,1,4
+2757,2028-10-22,North,Electronics,Mobile,560,6213,8,1
+2758,2028-10-23,North,Furniture,Laptop,9769,6721,7,8
+2759,2028-10-24,East,Furniture,Laptop,23565,5314,1,2
+2760,2028-10-25,East,Electronics,Pen,3395,1281,6,8
+2761,2028-10-26,West,Office Supplies,Notebook,15823,2473,1,6
+2762,2028-10-27,East,Electronics,Notebook,12852,8121,2,8
+2763,2028-10-28,East,Office Supplies,Table,45143,4311,5,6
+2764,2028-10-29,East,Electronics,Table,39091,9815,2,5
+2765,2028-10-30,North,Office Supplies,Pen,31390,2958,1,5
+2766,2028-10-31,West,Furniture,Table,32516,4762,6,8
+2767,2028-11-01,South,Office Supplies,Laptop,12462,6805,8,7
+2768,2028-11-02,North,Electronics,Laptop,33802,9867,8,8
+2769,2028-11-03,East,Furniture,Mobile,20346,3933,8,8
+2770,2028-11-04,North,Office Supplies,Notebook,4511,3565,6,7
+2771,2028-11-05,East,Office Supplies,Pen,20282,3453,3,2
+2772,2028-11-06,East,Office Supplies,Chair,2655,4648,1,9
+2773,2028-11-07,North,Office Supplies,Notebook,40225,5058,2,7
+2774,2028-11-08,West,Office Supplies,Chair,9696,6272,5,6
+2775,2028-11-09,East,Furniture,Mobile,43959,4059,5,9
+2776,2028-11-10,West,Furniture,Mobile,22209,2785,1,1
+2777,2028-11-11,South,Furniture,Table,13827,4541,1,2
+2778,2028-11-12,East,Furniture,Mobile,35974,8643,9,1
+2779,2028-11-13,West,Electronics,Mobile,33269,1024,2,3
+2780,2028-11-14,West,Furniture,Chair,42493,273,7,5
+2781,2028-11-15,South,Office Supplies,Table,25200,4663,4,1
+2782,2028-11-16,West,Office Supplies,Mobile,15320,6827,7,4
+2783,2028-11-17,West,Furniture,Notebook,11391,8477,8,8
+2784,2028-11-18,South,Office Supplies,Mobile,35129,4261,5,6
+2785,2028-11-19,East,Furniture,Table,5769,275,1,1
+2786,2028-11-20,West,Office Supplies,Pen,44380,8233,4,1
+2787,2028-11-21,West,Electronics,Table,48967,4327,3,3
+2788,2028-11-22,West,Electronics,Chair,8820,1391,5,8
+2789,2028-11-23,North,Furniture,Pen,11240,4086,6,8
+2790,2028-11-24,South,Furniture,Notebook,36397,8451,2,3
+2791,2028-11-25,North,Furniture,Laptop,31430,3777,7,7
+2792,2028-11-26,South,Office Supplies,Table,17785,3978,3,3
+2793,2028-11-27,East,Furniture,Chair,14880,2853,1,4
+2794,2028-11-28,East,Electronics,Notebook,11860,9351,3,9
+2795,2028-11-29,West,Office Supplies,Pen,5898,6608,9,4
+2796,2028-11-30,South,Furniture,Notebook,6029,443,6,3
+2797,2028-12-01,East,Office Supplies,Table,29562,6889,6,5
+2798,2028-12-02,South,Office Supplies,Mobile,37186,9085,4,7
+2799,2028-12-03,East,Furniture,Table,17951,9766,8,5
+2800,2028-12-04,North,Office Supplies,Laptop,49678,8845,5,4
+2801,2028-12-05,East,Electronics,Table,7437,631,7,8
+2802,2028-12-06,North,Electronics,Pen,40386,182,9,4
+2803,2028-12-07,East,Office Supplies,Pen,11360,2888,5,2
+2804,2028-12-08,West,Furniture,Table,25642,3435,5,6
+2805,2028-12-09,North,Office Supplies,Pen,25779,3820,4,2
+2806,2028-12-10,East,Electronics,Mobile,38606,2318,6,3
+2807,2028-12-11,West,Office Supplies,Notebook,45740,1025,2,1
+2808,2028-12-12,North,Office Supplies,Table,36408,7655,3,5
+2809,2028-12-13,West,Electronics,Mobile,41264,7263,1,9
+2810,2028-12-14,South,Office Supplies,Notebook,48757,9785,2,2
+2811,2028-12-15,South,Office Supplies,Notebook,14701,2885,2,7
+2812,2028-12-16,North,Furniture,Mobile,41044,2788,8,5
+2813,2028-12-17,East,Furniture,Chair,38211,9599,8,2
+2814,2028-12-18,North,Electronics,Table,46154,4184,2,8
+2815,2028-12-19,West,Electronics,Notebook,9497,9558,6,6
+2816,2028-12-20,East,Electronics,Notebook,41066,6883,5,4
+2817,2028-12-21,South,Furniture,Pen,20675,8403,3,4
+2818,2028-12-22,East,Electronics,Notebook,41360,1959,5,2
+2819,2028-12-23,South,Electronics,Mobile,3725,9369,5,3
+2820,2028-12-24,East,Electronics,Notebook,45078,9900,5,7
+2821,2028-12-25,East,Furniture,Chair,48182,2013,3,3
+2822,2028-12-26,East,Office Supplies,Table,35728,5203,3,5
+2823,2028-12-27,West,Electronics,Table,42005,1016,4,6
+2824,2028-12-28,West,Office Supplies,Notebook,47188,939,7,6
+2825,2028-12-29,North,Electronics,Laptop,23610,3111,2,4
+2826,2028-12-30,North,Office Supplies,Laptop,11254,6511,4,6
+2827,2028-12-31,South,Furniture,Mobile,27155,6216,4,3
+2828,2029-01-01,West,Furniture,Laptop,44101,7017,1,7
+2829,2029-01-02,South,Electronics,Mobile,3614,9908,8,7
+2830,2029-01-03,North,Office Supplies,Pen,27002,8151,1,4
+2831,2029-01-04,South,Furniture,Mobile,48628,7429,8,2
+2832,2029-01-05,North,Electronics,Laptop,20528,9683,7,7
+2833,2029-01-06,West,Electronics,Notebook,18087,7330,9,3
+2834,2029-01-07,East,Furniture,Pen,43219,1117,8,1
+2835,2029-01-08,West,Furniture,Laptop,35833,4273,5,2
+2836,2029-01-09,South,Electronics,Mobile,3674,9068,8,9
+2837,2029-01-10,South,Office Supplies,Chair,35898,4657,3,8
+2838,2029-01-11,West,Office Supplies,Table,36429,4035,7,6
+2839,2029-01-12,West,Office Supplies,Laptop,4821,3229,4,6
+2840,2029-01-13,North,Electronics,Mobile,30935,4588,5,1
+2841,2029-01-14,South,Furniture,Pen,46472,2412,9,2
+2842,2029-01-15,South,Electronics,Laptop,7599,2274,7,4
+2843,2029-01-16,West,Furniture,Laptop,24260,6421,4,3
+2844,2029-01-17,East,Office Supplies,Table,11860,1776,6,1
+2845,2029-01-18,South,Office Supplies,Mobile,10813,5841,7,8
+2846,2029-01-19,East,Furniture,Chair,46770,8123,9,7
+2847,2029-01-20,West,Furniture,Pen,20962,8508,4,4
+2848,2029-01-21,West,Electronics,Mobile,6301,7063,3,9
+2849,2029-01-22,North,Office Supplies,Pen,14630,887,8,4
+2850,2029-01-23,South,Electronics,Laptop,14771,4634,1,1
+2851,2029-01-24,East,Electronics,Table,16575,736,9,1
+2852,2029-01-25,North,Electronics,Table,37419,406,1,1
+2853,2029-01-26,South,Office Supplies,Notebook,42179,9113,2,1
+2854,2029-01-27,North,Electronics,Chair,19484,4697,8,4
+2855,2029-01-28,West,Electronics,Table,23059,4468,9,1
+2856,2029-01-29,South,Electronics,Laptop,13361,6692,7,2
+2857,2029-01-30,North,Electronics,Chair,33934,3441,3,4
+2858,2029-01-31,North,Electronics,Mobile,17167,4407,7,7
+2859,2029-02-01,East,Electronics,Table,6340,4929,6,2
+2860,2029-02-02,North,Office Supplies,Chair,4065,5369,2,8
+2861,2029-02-03,South,Electronics,Laptop,43694,2789,3,7
+2862,2029-02-04,South,Furniture,Notebook,21477,9560,5,9
+2863,2029-02-05,East,Electronics,Pen,21618,9777,4,6
+2864,2029-02-06,South,Electronics,Pen,23141,4834,2,4
+2865,2029-02-07,West,Office Supplies,Laptop,7866,927,4,6
+2866,2029-02-08,South,Office Supplies,Laptop,27136,2920,8,4
+2867,2029-02-09,South,Furniture,Pen,16130,342,5,7
+2868,2029-02-10,North,Furniture,Notebook,20556,9893,5,9
+2869,2029-02-11,North,Office Supplies,Chair,7882,8778,3,3
+2870,2029-02-12,South,Office Supplies,Pen,16649,2736,8,3
+2871,2029-02-13,East,Electronics,Laptop,49139,283,6,2
+2872,2029-02-14,North,Office Supplies,Table,46541,2424,2,1
+2873,2029-02-15,East,Furniture,Mobile,1492,2322,2,1
+2874,2029-02-16,South,Electronics,Notebook,7358,1016,9,3
+2875,2029-02-17,South,Furniture,Notebook,2621,939,7,7
+2876,2029-02-18,West,Electronics,Table,27660,3913,9,9
+2877,2029-02-19,North,Office Supplies,Table,45656,6204,6,2
+2878,2029-02-20,South,Furniture,Laptop,21406,3450,5,7
+2879,2029-02-21,West,Electronics,Pen,20072,8276,1,1
+2880,2029-02-22,North,Electronics,Chair,4636,4592,6,2
+2881,2029-02-23,South,Office Supplies,Notebook,17227,3573,6,6
+2882,2029-02-24,South,Office Supplies,Notebook,32667,1813,3,5
+2883,2029-02-25,North,Office Supplies,Table,45921,3341,3,8
+2884,2029-02-26,North,Furniture,Pen,15979,2538,3,2
+2885,2029-02-27,North,Electronics,Notebook,31876,1608,3,1
+2886,2029-02-28,South,Office Supplies,Chair,5323,4740,7,7
+2887,2029-03-01,South,Furniture,Table,5420,6171,2,6
+2888,2029-03-02,West,Furniture,Chair,20085,2326,2,8
+2889,2029-03-03,East,Furniture,Pen,38739,4489,3,8
+2890,2029-03-04,North,Office Supplies,Notebook,17772,1153,7,2
+2891,2029-03-05,South,Office Supplies,Mobile,27119,7570,3,8
+2892,2029-03-06,South,Electronics,Notebook,10033,9661,7,6
+2893,2029-03-07,North,Electronics,Pen,40395,5459,9,9
+2894,2029-03-08,East,Office Supplies,Notebook,4220,9720,4,7
+2895,2029-03-09,North,Furniture,Notebook,19767,7919,7,2
+2896,2029-03-10,East,Furniture,Laptop,16196,3006,9,8
+2897,2029-03-11,South,Furniture,Notebook,30468,7760,8,9
+2898,2029-03-12,East,Electronics,Notebook,23845,6067,8,7
+2899,2029-03-13,West,Furniture,Chair,26193,9624,9,4
+2900,2029-03-14,South,Electronics,Mobile,19885,3434,5,9
+2901,2029-03-15,West,Electronics,Chair,18622,9811,5,4
+2902,2029-03-16,North,Furniture,Chair,1864,78,3,4
+2903,2029-03-17,North,Furniture,Table,3208,8947,5,9
+2904,2029-03-18,North,Office Supplies,Laptop,13482,9262,8,8
+2905,2029-03-19,East,Office Supplies,Chair,17808,9688,5,4
+2906,2029-03-20,South,Furniture,Pen,33419,7806,4,8
+2907,2029-03-21,North,Electronics,Pen,25661,6998,8,8
+2908,2029-03-22,North,Electronics,Notebook,35589,5805,7,7
+2909,2029-03-23,South,Electronics,Table,14365,3652,6,6
+2910,2029-03-24,North,Electronics,Laptop,995,5112,5,8
+2911,2029-03-25,West,Electronics,Laptop,45255,8121,5,7
+2912,2029-03-26,South,Office Supplies,Notebook,2648,7294,2,5
+2913,2029-03-27,South,Furniture,Pen,33824,6422,4,4
+2914,2029-03-28,South,Office Supplies,Mobile,13893,7155,8,2
+2915,2029-03-29,West,Electronics,Table,2052,3631,8,8
+2916,2029-03-30,South,Electronics,Notebook,36353,2812,1,9
+2917,2029-03-31,West,Electronics,Table,33424,622,2,4
+2918,2029-04-01,South,Electronics,Pen,9426,7755,5,4
+2919,2029-04-02,East,Furniture,Pen,31351,664,9,5
+2920,2029-04-03,North,Electronics,Mobile,24389,4100,7,2
+2921,2029-04-04,East,Furniture,Mobile,40430,375,5,7
+2922,2029-04-05,North,Electronics,Laptop,8555,3790,1,5
+2923,2029-04-06,West,Furniture,Table,5154,408,6,6
+2924,2029-04-07,East,Office Supplies,Table,23134,3827,8,4
+2925,2029-04-08,South,Electronics,Pen,32863,5956,7,8
+2926,2029-04-09,North,Furniture,Laptop,11968,1771,2,8
+2927,2029-04-10,North,Office Supplies,Notebook,33422,1399,5,5
+2928,2029-04-11,East,Electronics,Table,41218,3746,4,6
+2929,2029-04-12,West,Electronics,Laptop,48591,3946,9,3
+2930,2029-04-13,East,Electronics,Laptop,17880,4310,1,1
+2931,2029-04-14,West,Furniture,Pen,27370,9838,6,9
+2932,2029-04-15,West,Furniture,Laptop,37894,9869,3,9
+2933,2029-04-16,North,Office Supplies,Mobile,14759,6991,9,3
+2934,2029-04-17,East,Furniture,Mobile,15373,3858,5,4
+2935,2029-04-18,East,Furniture,Chair,13516,5296,6,7
+2936,2029-04-19,West,Electronics,Pen,42637,8434,9,2
+2937,2029-04-20,East,Electronics,Notebook,653,3895,9,3
+2938,2029-04-21,South,Electronics,Chair,8353,2627,8,6
+2939,2029-04-22,South,Electronics,Mobile,12879,141,9,8
+2940,2029-04-23,East,Electronics,Chair,16292,4284,4,1
+2941,2029-04-24,East,Electronics,Pen,38867,8722,6,4
+2942,2029-04-25,West,Electronics,Pen,18600,6642,5,1
+2943,2029-04-26,South,Office Supplies,Laptop,48053,8178,5,2
+2944,2029-04-27,South,Office Supplies,Table,11549,1125,4,8
+2945,2029-04-28,North,Office Supplies,Laptop,1286,2563,2,6
+2946,2029-04-29,West,Office Supplies,Pen,4868,8218,6,9
+2947,2029-04-30,North,Electronics,Mobile,31199,6911,9,2
+2948,2029-05-01,South,Office Supplies,Notebook,48191,9040,1,3
+2949,2029-05-02,West,Electronics,Mobile,37540,654,7,9
+2950,2029-05-03,East,Office Supplies,Laptop,27954,3029,6,9
+2951,2029-05-04,West,Furniture,Notebook,39262,7190,3,6
+2952,2029-05-05,East,Office Supplies,Pen,24100,7115,1,3
+2953,2029-05-06,East,Office Supplies,Mobile,29738,4966,4,5
+2954,2029-05-07,West,Electronics,Pen,25741,6850,9,2
+2955,2029-05-08,East,Office Supplies,Notebook,20310,647,2,7
+2956,2029-05-09,North,Furniture,Notebook,20667,9774,3,8
+2957,2029-05-10,South,Electronics,Mobile,22311,7370,2,6
+2958,2029-05-11,East,Electronics,Pen,40279,8755,2,8
+2959,2029-05-12,North,Office Supplies,Chair,20585,5672,8,2
+2960,2029-05-13,East,Electronics,Pen,47354,1927,3,3
+2961,2029-05-14,South,Electronics,Notebook,9761,1749,7,7
+2962,2029-05-15,North,Electronics,Pen,19233,9271,8,1
+2963,2029-05-16,South,Electronics,Laptop,40279,5830,3,7
+2964,2029-05-17,South,Electronics,Chair,29579,766,2,6
+2965,2029-05-18,North,Electronics,Table,34480,4136,8,8
+2966,2029-05-19,North,Furniture,Laptop,14641,715,3,7
+2967,2029-05-20,North,Office Supplies,Table,9844,7896,7,4
+2968,2029-05-21,West,Furniture,Mobile,39972,6661,1,3
+2969,2029-05-22,North,Electronics,Table,16396,1129,6,3
+2970,2029-05-23,North,Electronics,Pen,24317,8469,9,4
+2971,2029-05-24,North,Office Supplies,Table,30313,8390,3,9
+2972,2029-05-25,North,Furniture,Notebook,19395,1119,7,9
+2973,2029-05-26,East,Office Supplies,Laptop,643,5313,6,2
+2974,2029-05-27,West,Furniture,Laptop,11181,8001,8,5
+2975,2029-05-28,South,Electronics,Table,7867,1413,3,1
+2976,2029-05-29,North,Office Supplies,Laptop,3728,4558,3,4
+2977,2029-05-30,East,Office Supplies,Notebook,5082,1805,4,2
+2978,2029-05-31,East,Electronics,Laptop,13647,569,3,8
+2979,2029-06-01,East,Office Supplies,Table,11897,5513,9,4
+2980,2029-06-02,South,Furniture,Chair,39299,7283,4,5
+2981,2029-06-03,North,Furniture,Chair,37511,1152,6,4
+2982,2029-06-04,West,Furniture,Mobile,14147,647,8,5
+2983,2029-06-05,West,Furniture,Laptop,28218,3323,8,5
+2984,2029-06-06,East,Electronics,Table,44764,5831,5,5
+2985,2029-06-07,South,Office Supplies,Laptop,42817,6306,5,3
+2986,2029-06-08,South,Furniture,Pen,48414,7308,6,7
+2987,2029-06-09,South,Electronics,Notebook,19597,8830,7,3
+2988,2029-06-10,West,Office Supplies,Laptop,37453,6604,7,2
+2989,2029-06-11,East,Office Supplies,Laptop,45754,9649,4,3
+2990,2029-06-12,North,Electronics,Chair,40596,8052,6,3
+2991,2029-06-13,West,Electronics,Notebook,49952,4896,7,8
+2992,2029-06-14,East,Furniture,Table,17607,9871,5,4
+2993,2029-06-15,East,Office Supplies,Laptop,3510,9236,5,3
+2994,2029-06-16,North,Office Supplies,Chair,6055,4848,2,5
+2995,2029-06-17,North,Electronics,Mobile,567,6655,7,4
+2996,2029-06-18,North,Office Supplies,Notebook,28912,3036,6,9
+2997,2029-06-19,South,Furniture,Chair,45453,450,1,8
+2998,2029-06-20,North,Office Supplies,Chair,34805,2905,4,7
+2999,2029-06-21,East,Electronics,Chair,12049,3462,3,8
+3000,2029-06-22,North,Electronics,Laptop,6180,106,3,5
